@@ -1,0 +1,66 @@
+1	Sherwin-Williams	NNP	2	nn
+2	Co.	NNP	6	nsubj
+3	and	CC	2	cc
+4	Whittaker	NNP	5	nn
+5	Corp.	NNP	2	conj
+6	said	VBD	0	root
+7	they	PRP	9	nsubj
+8	've	VBP	9	aux
+9	discontinued	VBN	6	ccomp
+10	talks	NNS	9	dobj
+11	toward	IN	10	prep
+12	a	DT	14	det
+13	definitive	JJ	14	amod
+14	agreement	NN	11	pobj
+15	regarding	VBG	14	prep
+16	Sherwin-Williams	NNP	18	poss
+17	'	POS	16	possessive
+18	acquisition	NN	15	pobj
+19	of	IN	18	prep
+20	Whittaker	NNP	24	poss
+21	's	POS	20	possessive
+22	chemical	NN	23	nn
+23	coating	NN	24	nn
+24	group	NN	19	pobj
+25	.	.	6	punct
+
+1	The	DT	2	det
+2	companies	NNS	3	nsubj
+3	reached	VBD	0	root
+4	an	DT	5	det
+5	agreement	NN	3	dobj
+6	in	IN	5	prep
+7	principle	NN	6	pobj
+8	for	IN	5	prep
+9	the	DT	10	det
+10	sale	NN	8	pobj
+11	in	IN	3	prep
+12	August	NNP	11	pobj
+13	.	.	3	punct
+
+1	Terms	NNS	4	nsubjpass
+2	were	VBD	4	auxpass
+3	n't	RB	4	neg
+4	disclosed	VBN	0	root
+5	.	.	4	punct
+
+1	Cleveland-based	JJ	2	amod
+2	Sherwin-Williams	NNP	3	nsubj
+3	produces	VBZ	0	root
+4	paints	NNS	3	dobj
+5	and	CC	4	cc
+6	coatings	NNS	4	conj
+7	,	,	3	punct
+8	while	IN	15	mark
+9	the	DT	14	det
+10	Los	NNP	11	amod
+11	Angeles-based	JJ	14	amod
+12	Whittaker	NNP	14	nn
+13	coatings	NNS	14	nn
+14	group	NN	15	nsubj
+15	produces	VBZ	3	advcl
+16	industrial	JJ	17	amod
+17	coatings	NNS	15	dobj
+18	.	.	3	punct
+
+

@@ -1,0 +1,94 @@
+1	Past	NNP	3	nn
+2	Due	NNP	3	nn
+3	Impasse	NNP	0	root
+
+1	I	PRP	3	nsubj
+2	never	RB	3	neg
+3	pay	VBP	0	root
+4	my	PRP$	5	poss
+5	bills	NNS	3	dobj
+6	Till	IN	3	prep
+7	the	DT	10	det
+8	very	RB	9	advmod
+9	last	JJ	10	amod
+10	day	NN	6	pobj
+11	;	:	3	punct
+12	I	PRP	13	nsubj
+13	lose	VBP	3	parataxis
+14	far	RB	15	advmod
+15	less	JJR	16	amod
+16	interest	NN	13	dobj
+17	By	IN	13	prep
+18	proceeding	VBG	17	pcomp
+19	that	DT	20	det
+20	way	NN	18	dobj
+21	.	.	3	punct
+
+1	But	CC	4	cc
+2	it	PRP	4	nsubj
+3	all	RB	2	det
+4	evens	VBZ	0	root
+5	out	IN	4	prt
+6	,	,	10	punct
+7	It	PRP	10	nsubj
+8	's	VBZ	10	cop
+9	so	RB	10	advmod
+10	easy	JJ	4	dep
+11	to	TO	12	aux
+12	see	VB	10	dep
+13	:	:	4	punct
+14	Not	RB	15	neg
+15	till	IN	21	prep
+16	the	DT	18	det
+17	last	JJ	18	amod
+18	moment	NN	15	pobj
+19	Am	VBP	21	auxpass
+20	I	PRP	21	nsubjpass
+21	paid	VBN	4	parataxis
+22	what	WP	24	nsubj
+23	's	VBZ	24	cop
+24	due	JJ	21	ccomp
+25	me	PRP	24	dep
+26	.	.	4	punct
+
+1	--	:	4	punct
+2	Arnold	NNP	4	nn
+3	J.	NNP	4	nn
+4	Zarett	NNP	0	root
+5	.	.	4	punct
+
+1	Rex	NNP	2	nn
+2	Tremendae	NNP	0	root
+
+1	The	DT	4	det
+2	effete	JJ	4	amod
+3	Tyrannosaurus	NNP	4	nn
+4	Rex	NNP	5	nsubj
+5	Had	VBD	0	root
+6	strict	JJ	8	amod
+7	Cretaceous	JJ	8	amod
+8	views	NNS	5	dobj
+9	on	IN	8	prep
+10	sex	NN	9	pobj
+11	,	,	5	punct
+12	And	CC	5	cc
+13	that	DT	14	nsubj
+14	is	VBZ	5	conj
+15	why	WRB	18	advmod
+16	you	PRP	18	nsubj
+17	only	RB	18	advmod
+18	see	VB	14	advcl
+19	him	PRP	20	nsubj
+20	Reproduced	VBN	18	dep
+21	in	IN	20	prep
+22	the	DT	23	det
+23	museum	NN	21	pobj
+24	.	.	5	punct
+
+1	--	:	4	punct
+2	Laurence	NNP	4	nn
+3	W.	NNP	4	nn
+4	Thomas	NNP	0	root
+5	.	.	4	punct
+
+

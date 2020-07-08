@@ -1,0 +1,24 @@
+1	Lord	NNP	2	nn
+2	Chilver	NNP	13	nsubjpass
+3	,	,	2	punct
+4	63-year-old	JJ	5	amod
+5	chairman	NN	2	appos
+6	of	IN	5	prep
+7	English	NNP	9	nn
+8	China	NNP	9	nn
+9	Clays	NNP	10	nn
+10	PLC	NNP	6	pobj
+11	,	,	2	punct
+12	was	VBD	13	auxpass
+13	named	VBN	0	root
+14	a	DT	16	det
+15	nonexecutive	JJ	16	amod
+16	director	NN	13	xcomp
+17	of	IN	16	prep
+18	this	DT	21	det
+19	British	JJ	21	amod
+20	chemical	NN	21	nn
+21	company	NN	17	pobj
+22	.	.	13	punct
+
+

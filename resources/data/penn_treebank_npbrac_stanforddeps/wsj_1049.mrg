@@ -1,0 +1,39 @@
+1	NICHOLS	NNP	2	nn
+2	INSTITUTE	NNP	3	nsubj
+3	declared	VBD	0	root
+4	a	DT	6	det
+5	2-for-1	JJ	6	amod
+6	split	NN	3	dobj
+7	of	IN	6	prep
+8	its	PRP$	10	poss
+9	common	JJ	10	amod
+10	stock	NN	7	pobj
+11	,	,	6	punct
+12	payable	JJ	6	amod
+13	Nov.	NNP	12	tmod
+14	27	CD	13	num
+15	to	TO	12	prep
+16	stock	VB	15	pobj
+17	of	IN	19	dep
+18	record	NN	17	pobj
+19	Nov.	NNP	16	rcmod
+20	10	CD	19	num
+21	.	.	3	punct
+
+1	The	DT	6	det
+2	clinical	JJ	3	amod
+3	testing	NN	4	nn
+4	services	NNS	6	nn
+5	holding	VBG	6	amod
+6	company	NN	8	nsubjpass
+7	is	VBZ	8	auxpass
+8	based	VBN	0	root
+9	in	IN	8	prep
+10	San	NNP	12	nn
+11	Juan	NNP	12	nn
+12	Capistrano	NNP	9	pobj
+13	,	,	12	punct
+14	Calif	NNP	12	appos
+15	.	.	8	punct
+
+

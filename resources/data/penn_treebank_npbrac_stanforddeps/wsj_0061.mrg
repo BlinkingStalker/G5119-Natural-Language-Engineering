@@ -1,0 +1,55 @@
+1	The	DT	4	det
+2	Life	NNP	3	nn
+3	Insurance	NNP	4	nn
+4	Co.	NNP	9	nsubj
+5	of	IN	4	prep
+6	Georgia	NNP	5	pobj
+7	has	VBZ	9	aux
+8	officially	RB	9	advmod
+9	opened	VBN	0	root
+10	an	DT	11	det
+11	office	NN	9	dobj
+12	in	IN	9	prep
+13	Taipei	NNP	12	pobj
+14	.	.	9	punct
+
+1	David	NNP	2	nn
+2	Wu	NNP	11	nsubj
+3	,	,	2	punct
+4	the	DT	5	det
+5	company	NN	7	poss
+6	's	POS	5	possessive
+7	representative	NN	2	appos
+8	in	IN	7	prep
+9	Taiwan	NNP	8	pobj
+10	,	,	2	punct
+11	said	VBD	0	root
+12	Atlanta-based	JJ	13	amod
+13	Life	NNP	17	nsubj
+14	of	IN	13	prep
+15	Georgia	NNP	14	pobj
+16	will	MD	17	aux
+17	sell	VB	11	ccomp
+18	conventional	JJ	20	amod
+19	life-insurance	NN	20	nn
+20	products	NNS	17	dobj
+21	.	.	11	punct
+
+1	Life	NNP	5	nsubj
+2	of	IN	1	prep
+3	Georgia	NNP	2	pobj
+4	is	VBZ	5	cop
+5	part	NN	0	root
+6	of	IN	5	prep
+7	the	DT	10	det
+8	Nationale	NNP	10	nn
+9	Nederlanden	NNP	10	nn
+10	Group	NNP	6	pobj
+11	,	,	10	punct
+12	based	VBN	10	partmod
+13	in	IN	12	prep
+14	the	DT	15	det
+15	Netherlands	NNP	13	pobj
+16	.	.	5	punct
+
+

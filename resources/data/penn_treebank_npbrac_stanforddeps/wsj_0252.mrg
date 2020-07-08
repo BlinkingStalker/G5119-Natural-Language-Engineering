@@ -1,0 +1,41 @@
+1	Scott	NNP	3	nn
+2	C.	NNP	3	nn
+3	Smith	NNP	21	nsubjpass
+4	,	,	3	punct
+5	formerly	RB	7	advmod
+6	vice	NN	7	nn
+7	president	NN	3	appos
+8	,	,	7	punct
+9	finance	NN	7	appos
+10	,	,	7	punct
+11	and	CC	7	cc
+12	chief	JJ	14	amod
+13	financial	JJ	14	amod
+14	officer	NN	7	conj
+15	of	IN	7	prep
+16	this	DT	18	det
+17	media	NNS	18	nn
+18	concern	NN	15	pobj
+19	,	,	3	punct
+20	was	VBD	21	auxpass
+21	named	VBN	0	root
+22	senior	JJ	24	amod
+23	vice	NN	24	nn
+24	president	NN	21	xcomp
+25	.	.	21	punct
+
+1	Mr.	NNP	2	nn
+2	Smith	NNP	6	nsubj
+3	,	,	2	punct
+4	39	CD	2	appos
+5	,	,	2	punct
+6	retains	VBZ	0	root
+7	the	DT	8	det
+8	title	NN	6	dobj
+9	of	IN	8	prep
+10	chief	JJ	12	amod
+11	financial	JJ	12	amod
+12	officer	NN	9	pobj
+13	.	.	6	punct
+
+

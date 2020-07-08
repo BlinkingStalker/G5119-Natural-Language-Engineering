@@ -1,0 +1,38 @@
+1	Eugene	NNP	3	nn
+2	A.	NNP	3	nn
+3	Miller	NNP	10	nsubjpass
+4	,	,	3	punct
+5	52	CD	6	num
+6	years	NNS	7	npadvmod
+7	old	JJ	3	amod
+8	,	,	3	punct
+9	was	VBD	10	auxpass
+10	elected	VBN	0	root
+11	a	DT	12	det
+12	director	NN	10	xcomp
+13	of	IN	12	prep
+14	this	DT	17	det
+15	electric	JJ	16	amod
+16	utility	NN	17	nn
+17	company	NN	13	pobj
+18	,	,	10	punct
+19	filling	VBG	10	xcomp
+20	a	DT	21	det
+21	vacancy	NN	19	dobj
+22	.	.	10	punct
+
+1	He	PRP	3	nsubj
+2	is	VBZ	3	cop
+3	president	NN	0	root
+4	and	CC	3	cc
+5	chief	NN	7	nn
+6	executive	JJ	7	amod
+7	officer	NN	3	conj
+8	of	IN	3	prep
+9	Comerica	NNP	10	nn
+10	Inc.	NNP	8	pobj
+11	in	IN	10	prep
+12	Detroit	NNP	11	pobj
+13	.	.	3	punct
+
+

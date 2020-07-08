@@ -1,0 +1,43 @@
+1	General	NNP	2	nn
+2	Motors	NNPS	3	nn
+3	Corp.	NNP	6	poss
+4	's	POS	3	possessive
+5	Chevrolet	NNP	6	nn
+6	division	NN	7	nsubj
+7	said	VBD	0	root
+8	it	PRP	10	nsubj
+9	is	VBZ	10	aux
+10	offering	VBG	7	ccomp
+11	$	$	14	amod
+12	750	CD	11	number
+13	cash	NN	14	nn
+14	incentives	NNS	10	dobj
+15	on	IN	14	prep
+16	all	DT	18	det
+17	1990	CD	18	num
+18	models	NNS	15	pobj
+19	of	IN	18	prep
+20	its	PRP$	26	poss
+21	full-size	JJ	26	amod
+22	Blazer	NNP	26	nn
+23	and	CC	22	cc
+24	Suburban	NNP	22	conj
+25	truck	NN	26	nn
+26	lines	NNS	19	pobj
+27	.	.	7	punct
+
+1	Chevrolet	NNP	3	nsubj
+2	already	RB	3	advmod
+3	has	VBZ	0	root
+4	cash	NN	5	nn
+5	incentives	NNS	3	dobj
+6	on	IN	5	prep
+7	the	DT	9	det
+8	1989	CD	9	num
+9	models	NNS	6	pobj
+10	of	IN	9	prep
+11	these	DT	12	det
+12	vehicles	NNS	10	pobj
+13	.	.	3	punct
+
+

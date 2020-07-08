@@ -1,0 +1,42 @@
+1	PRINCE	NNP	2	nn
+2	HENRI	NNP	6	nsubj
+3	is	VBZ	6	cop
+4	the	DT	6	det
+5	crown	NN	6	nn
+6	prince	NN	0	root
+7	and	CC	6	cc
+8	hereditary	JJ	10	amod
+9	grand	JJ	10	amod
+10	duke	NN	6	conj
+11	of	IN	6	prep
+12	Luxembourg	NNP	11	pobj
+13	.	.	6	punct
+
+1	An	DT	2	det
+2	article	NN	13	nsubj
+3	in	IN	2	prep
+4	the	DT	7	det
+5	World	NNP	7	nn
+6	Business	NNP	7	nn
+7	Report	NNP	3	pobj
+8	of	IN	7	prep
+9	Sept.	NNP	11	nn
+10	22	CD	9	num
+11	editions	NNS	8	pobj
+12	incorrectly	RB	13	advmod
+13	referred	VBD	0	root
+14	to	TO	13	prep
+15	his	PRP$	16	poss
+16	father	NN	14	pobj
+17	,	,	16	punct
+18	Grand	NNP	19	nn
+19	Duke	NNP	20	nn
+20	Jean	NNP	16	appos
+21	,	,	16	punct
+22	as	IN	13	prep
+23	the	DT	25	det
+24	crown	NN	25	nn
+25	prince	NN	22	pobj
+26	.	.	13	punct
+
+

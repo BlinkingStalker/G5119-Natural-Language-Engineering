@@ -1,0 +1,44 @@
+1	Columbia	NNP	3	nn
+2	Pictures	NNPS	3	nn
+3	Entertainment	NNP	4	nn
+4	Inc.	NNP	6	nsubjpass
+5	was	VBD	6	auxpass
+6	dropped	VBN	0	root
+7	,	,	6	punct
+8	effective	JJ	6	acomp
+9	today	NN	8	tmod
+10	,	,	6	punct
+11	from	IN	6	prep
+12	the	DT	18	det
+13	recreational	JJ	14	amod
+14	products	NNS	18	nn
+15	and	CC	14	cc
+16	services	NNS	14	conj
+17	industry	NN	18	nn
+18	group	NN	11	pobj
+19	of	IN	18	prep
+20	the	DT	25	det
+21	Dow	NNP	22	nn
+22	Jones	NNP	25	nn
+23	Equity	NNP	24	nn
+24	Market	NNP	25	nn
+25	Index	NNP	19	pobj
+26	.	.	6	punct
+
+1	Columbia	NNP	2	nn
+2	Pictures	NNPS	5	nsubjpass
+3	is	VBZ	5	aux
+4	being	VBG	5	auxpass
+5	acquired	VBN	0	root
+6	by	IN	5	prep
+7	Sony	NNP	8	nn
+8	Corp.	NNP	6	pobj
+9	,	,	8	punct
+10	which	WDT	12	nsubjpass
+11	is	VBZ	12	auxpass
+12	based	VBN	8	rcmod
+13	in	IN	12	prep
+14	Japan	NNP	13	pobj
+15	.	.	5	punct
+
+

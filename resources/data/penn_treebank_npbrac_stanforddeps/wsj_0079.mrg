@@ -1,0 +1,65 @@
+1	Eaton	NNP	2	nn
+2	Corp.	NNP	3	nsubj
+3	said	VBD	0	root
+4	it	PRP	5	nsubj
+5	sold	VBD	3	ccomp
+6	its	PRP$	11	poss
+7	Pacific	NNP	9	nn
+8	Sierra	NNP	9	nn
+9	Research	NNP	10	nn
+10	Corp.	NNP	11	nn
+11	unit	NN	5	dobj
+12	to	TO	5	prep
+13	a	DT	14	det
+14	company	NN	12	pobj
+15	formed	VBN	14	partmod
+16	by	IN	15	prep
+17	employees	NNS	16	pobj
+18	of	IN	17	prep
+19	that	DT	20	det
+20	unit	NN	18	pobj
+21	.	.	3	punct
+
+1	Terms	NNS	4	nsubjpass
+2	were	VBD	4	auxpass
+3	n't	RB	4	neg
+4	disclosed	VBN	0	root
+5	.	.	4	punct
+
+1	Pacific	NNP	2	nn
+2	Sierra	NNP	9	nsubj
+3	,	,	2	punct
+4	based	VBN	2	partmod
+5	in	IN	4	prep
+6	Los	NNP	7	nn
+7	Angeles	NNP	5	pobj
+8	,	,	2	punct
+9	has	VBZ	0	root
+10	about	RB	11	quantmod
+11	200	CD	12	num
+12	employees	NNS	9	dobj
+13	and	CC	9	cc
+14	supplies	VBZ	9	conj
+15	professional	JJ	16	amod
+16	services	NNS	14	dobj
+17	and	CC	16	cc
+18	advanced	JJ	19	amod
+19	products	NNS	16	conj
+20	to	TO	14	prep
+21	industry	NN	20	pobj
+22	.	.	9	punct
+
+1	Eaton	NNP	11	nsubj
+2	is	VBZ	11	cop
+3	an	DT	11	det
+4	automotive	JJ	5	amod
+5	parts	NNS	11	nn
+6	,	,	5	punct
+7	controls	NNS	5	conj
+8	and	CC	5	cc
+9	aerospace	NN	10	nn
+10	electronics	NNS	5	conj
+11	concern	NN	0	root
+12	.	.	11	punct
+
+

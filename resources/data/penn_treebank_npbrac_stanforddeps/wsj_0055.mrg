@@ -1,0 +1,29 @@
+1	Structural	NNP	3	nn
+2	Dynamics	NNP	3	nn
+3	Research	NNP	4	nn
+4	Corp.	NNP	12	nsubj
+5	,	,	4	punct
+6	which	WDT	7	nsubj
+7	makes	VBZ	4	rcmod
+8	computer-aided	JJ	9	amod
+9	engineering	NN	10	nn
+10	software	NN	7	dobj
+11	,	,	4	punct
+12	said	VBD	0	root
+13	it	PRP	14	nsubj
+14	introduced	VBD	12	ccomp
+15	new	JJ	16	amod
+16	technology	NN	14	dobj
+17	in	IN	16	prep
+18	mechanical	JJ	19	amod
+19	design	NN	20	nn
+20	automation	NN	17	pobj
+21	that	WDT	23	nsubj
+22	will	MD	23	aux
+23	improve	VB	16	rcmod
+24	mechanical	JJ	25	amod
+25	engineering	NN	26	nn
+26	productivity	NN	23	dobj
+27	.	.	12	punct
+
+

@@ -1,0 +1,47 @@
+1	Retired	NNP	2	nn
+2	Adm.	NNP	5	nn
+3	William	NNP	5	nn
+4	J.	NNP	5	nn
+5	Crowe	NNP	31	nsubjpass
+6	,	,	5	punct
+7	former	JJ	8	amod
+8	chairman	NN	5	appos
+9	of	IN	8	prep
+10	the	DT	12	det
+11	Joint	NNP	12	nn
+12	Chiefs	NNP	9	pobj
+13	of	IN	12	prep
+14	Staff	NNP	13	pobj
+15	,	,	5	punct
+16	and	CC	5	cc
+17	Robert	NNP	19	nn
+18	P.	NNP	19	nn
+19	Luciano	NNP	5	conj
+20	,	,	19	punct
+21	chairman	NN	19	appos
+22	and	CC	21	cc
+23	chief	JJ	25	amod
+24	executive	JJ	25	amod
+25	officer	NN	21	conj
+26	of	IN	21	prep
+27	Schering-Plough	NNP	28	nn
+28	Corp.	NNP	26	pobj
+29	,	,	5	punct
+30	were	VBD	31	auxpass
+31	elected	VBN	0	root
+32	directors	NNS	31	xcomp
+33	of	IN	32	prep
+34	this	DT	36	det
+35	securities	NNS	36	nn
+36	firm	NN	33	pobj
+37	.	.	31	punct
+
+1	The	DT	2	det
+2	board	NN	3	nsubj
+3	expanded	VBD	0	root
+4	to	TO	3	prep
+5	17	CD	6	num
+6	seats	NNS	4	pobj
+7	.	.	3	punct
+
+

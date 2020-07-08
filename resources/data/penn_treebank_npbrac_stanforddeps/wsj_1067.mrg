@@ -1,0 +1,29 @@
+1	Philip	NNP	3	nn
+2	L.	NNP	3	nn
+3	Hall	NNP	15	nsubjpass
+4	,	,	3	punct
+5	president	NN	3	appos
+6	of	IN	5	prep
+7	J.	NNP	9	nn
+8	Lawrence	NNP	9	nn
+9	Hall	NNP	10	nn
+10	Co.	NNP	6	pobj
+11	,	,	10	punct
+12	Nashua	NNP	10	appos
+13	,	,	3	punct
+14	was	VBD	15	auxpass
+15	named	VBN	0	root
+16	a	DT	17	det
+17	director	NN	15	xcomp
+18	of	IN	17	prep
+19	this	DT	22	det
+20	thrift	NN	22	nn
+21	holding	VBG	22	amod
+22	company	NN	18	pobj
+23	,	,	15	punct
+24	filling	VBG	15	xcomp
+25	a	DT	26	det
+26	vacancy	NN	24	dobj
+27	.	.	15	punct
+
+

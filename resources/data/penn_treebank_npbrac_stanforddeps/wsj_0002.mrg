@@ -1,0 +1,28 @@
+1	Rudolph	NNP	2	nn
+2	Agnew	NNP	17	nsubjpass
+3	,	,	2	punct
+4	55	CD	5	num
+5	years	NNS	6	npadvmod
+6	old	JJ	2	amod
+7	and	CC	6	cc
+8	former	JJ	9	amod
+9	chairman	NN	6	conj
+10	of	IN	9	prep
+11	Consolidated	NNP	13	nn
+12	Gold	NNP	13	nn
+13	Fields	NNP	14	nn
+14	PLC	NNP	10	pobj
+15	,	,	2	punct
+16	was	VBD	17	auxpass
+17	named	VBN	0	root
+18	a	DT	20	det
+19	nonexecutive	JJ	20	amod
+20	director	NN	17	xcomp
+21	of	IN	20	prep
+22	this	DT	25	det
+23	British	JJ	25	amod
+24	industrial	JJ	25	amod
+25	conglomerate	NN	21	pobj
+26	.	.	17	punct
+
+

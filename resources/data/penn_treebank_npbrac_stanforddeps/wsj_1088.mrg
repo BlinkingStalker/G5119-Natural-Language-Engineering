@@ -1,0 +1,30 @@
+1	Dennis	NNP	3	nn
+2	R.	NNP	3	nn
+3	Mangino	NNP	13	nsubjpass
+4	,	,	3	punct
+5	a	DT	7	det
+6	general	JJ	7	amod
+7	manager	NN	3	appos
+8	of	IN	7	prep
+9	EniChem	NNP	10	nn
+10	Americas	NNPS	8	pobj
+11	,	,	3	punct
+12	was	VBD	13	auxpass
+13	named	VBN	0	root
+14	vice	NN	15	nn
+15	president	NN	13	xcomp
+16	of	IN	15	prep
+17	research	NN	16	pobj
+18	and	CC	17	cc
+19	development	NN	17	conj
+20	,	,	15	punct
+21	a	DT	23	det
+22	new	JJ	23	amod
+23	post	NN	15	appos
+24	at	IN	23	prep
+25	this	DT	27	det
+26	steel	NN	27	nn
+27	company	NN	24	pobj
+28	.	.	13	punct
+
+

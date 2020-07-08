@@ -1,0 +1,44 @@
+1	Alvin	NNP	3	nn
+2	W.	NNP	3	nn
+3	Trivelpiece	NNP	18	nsubjpass
+4	,	,	3	punct
+5	director	NN	3	appos
+6	of	IN	5	prep
+7	Oak	NNP	8	nn
+8	Ridge	NNP	10	nn
+9	National	NNP	10	nn
+10	Laboratory	NNP	6	pobj
+11	,	,	10	punct
+12	Oak	NNP	13	nn
+13	Ridge	NNP	10	appos
+14	,	,	13	punct
+15	Tenn.	NNP	13	appos
+16	,	,	3	punct
+17	was	VBD	18	auxpass
+18	elected	VBN	0	root
+19	a	DT	20	det
+20	director	NN	18	xcomp
+21	of	IN	20	prep
+22	this	DT	24	det
+23	optical-products	NNS	24	nn
+24	concern	NN	21	pobj
+25	.	.	18	punct
+
+1	Mr.	NNP	2	nn
+2	Trivelpiece	NNP	8	nsubj
+3	,	,	2	punct
+4	58	CD	5	num
+5	years	NNS	6	npadvmod
+6	old	JJ	2	amod
+7	,	,	2	punct
+8	succeeds	VBZ	0	root
+9	William	NNP	10	nn
+10	Bolger	NNP	8	dobj
+11	,	,	10	punct
+12	who	WP	13	nsubj
+13	died	VBD	10	rcmod
+14	in	IN	13	prep
+15	August	NNP	14	pobj
+16	.	.	8	punct
+
+

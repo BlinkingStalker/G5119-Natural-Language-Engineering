@@ -1,0 +1,43 @@
+1	THE	DT	2	det
+2	STOCK	NN	15	nsubj
+3	of	IN	2	prep
+4	Applied	NNP	5	nn
+5	Power	NNP	6	nn
+6	Inc.	NNP	3	pobj
+7	,	,	2	punct
+8	which	WDT	9	nsubj
+9	split	VBD	2	rcmod
+10	2-for-1	JJ	9	advmod
+11	in	IN	9	prep
+12	May	NNP	11	pobj
+13	,	,	2	punct
+14	has	VBZ	15	aux
+15	risen	VBN	0	root
+16	since	IN	15	prep
+17	August	NNP	16	pobj
+18	1988	CD	17	num
+19	.	.	15	punct
+
+1	In	IN	9	prep
+2	yesterday	NN	4	poss
+3	's	POS	2	possessive
+4	edition	NN	1	pobj
+5	,	,	9	punct
+6	it	PRP	9	nsubjpass
+7	was	VBD	9	auxpass
+8	incorrectly	RB	9	advmod
+9	stated	VBN	0	root
+10	that	IN	17	complm
+11	the	DT	12	det
+12	company	NN	15	poss
+13	's	POS	12	possessive
+14	share	NN	15	nn
+15	price	NN	17	nsubj
+16	has	VBZ	17	aux
+17	softened	VBN	9	ccomp
+18	since	IN	17	prep
+19	August	NNP	18	pobj
+20	1988	CD	19	num
+21	.	.	9	punct
+
+

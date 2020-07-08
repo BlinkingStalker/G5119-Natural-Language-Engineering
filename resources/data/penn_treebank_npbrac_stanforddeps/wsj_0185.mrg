@@ -1,0 +1,42 @@
+1	INTER-TEL	NNP	2	nn
+2	Inc	NNP	0	root
+3	.	.	2	punct
+4	-LRB-	-LRB-	7	punct
+5	Chandler	NNP	7	nn
+6	,	,	7	punct
+7	Ariz.	NNP	2	appos
+8	-RRB-	-RRB-	7	punct
+9	--	:	2	punct
+
+1	Jerry	NNP	2	nn
+2	Chapman	NNP	11	nsubjpass
+3	,	,	2	punct
+4	managing	VBG	5	amod
+5	director	NN	2	appos
+6	of	IN	5	prep
+7	WayMar	NNP	8	nn
+8	Associates	NNPS	6	pobj
+9	,	,	2	punct
+10	was	VBD	11	auxpass
+11	elected	VBN	0	root
+12	a	DT	13	det
+13	director	NN	11	xcomp
+14	of	IN	13	prep
+15	this	DT	21	det
+16	business	NN	18	nn
+17	telecommunications	NNS	18	dep
+18	software	NN	21	nn
+19	and	CC	18	cc
+20	systems	NNS	18	conj
+21	concern	NN	14	pobj
+22	.	.	11	punct
+
+1	He	PRP	2	nsubj
+2	increases	VBZ	0	root
+3	the	DT	4	det
+4	board	NN	2	dobj
+5	to	TO	2	prep
+6	seven	CD	5	pobj
+7	.	.	2	punct
+
+

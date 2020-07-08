@@ -1,0 +1,53 @@
+1	Lancaster	NNP	2	nn
+2	Colony	NNP	3	nn
+3	Corp.	NNP	4	nsubj
+4	said	VBD	0	root
+5	it	PRP	6	nsubj
+6	acquired	VBD	4	ccomp
+7	Reames	NNP	8	nn
+8	Foods	NNP	9	nn
+9	Inc.	NNP	6	dobj
+10	in	IN	6	prep
+11	a	DT	13	det
+12	cash	NN	13	nn
+13	transaction	NN	10	pobj
+14	.	.	4	punct
+
+1	Terms	NNS	4	nsubjpass
+2	were	VBD	4	auxpass
+3	n't	RB	4	neg
+4	disclosed	VBN	0	root
+5	.	.	4	punct
+
+1	Reames	NNP	19	nsubj
+2	,	,	1	punct
+3	a	DT	4	det
+4	maker	NN	1	appos
+5	and	CC	4	cc
+6	marketer	NN	4	conj
+7	of	IN	4	prep
+8	frozen	VBN	9	amod
+9	noodles	NNS	7	pobj
+10	and	CC	9	cc
+11	pre-cooked	JJ	12	amod
+12	pasta	NN	9	conj
+13	based	VBN	4	partmod
+14	in	IN	13	prep
+15	Clive	NNP	14	pobj
+16	,	,	15	punct
+17	Iowa	NNP	15	appos
+18	,	,	15	punct
+19	has	VBZ	29	ccomp
+20	annual	JJ	21	amod
+21	sales	NNS	19	dobj
+22	of	IN	21	prep
+23	about	RB	24	quantmod
+24	$	$	22	pobj
+25	11	CD	24	number
+26	million	CD	24	number
+27	,	,	29	punct
+28	Lancaster	NNP	29	nsubj
+29	said	VBD	0	root
+30	.	.	29	punct
+
+

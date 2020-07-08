@@ -1,0 +1,31 @@
+1	RADIO	NN	0	root
+2	:	:	1	punct
+
+1	Viacom	NNP	2	nn
+2	Broadcasting	NNP	3	nn
+3	Inc.	NNP	5	nsubj
+4	definitively	RB	5	advmod
+5	agreed	VBD	0	root
+6	to	TO	7	aux
+7	acquire	VB	5	xcomp
+8	KOFY	NNP	7	dobj
+9	-LRB-	-LRB-	10	punct
+10	AM	VBP	8	dep
+11	-RRB-	-RRB-	10	punct
+12	and	CC	8	cc
+13	KOFY-FM	NNP	8	conj
+14	in	IN	8	prep
+15	San	NNP	16	nn
+16	Francisco	NNP	14	pobj
+17	for	IN	7	prep
+18	about	RB	19	quantmod
+19	$	$	17	pobj
+20	19.5	CD	19	number
+21	million	CD	19	number
+22	from	IN	7	prep
+23	Pacific	NNP	24	nn
+24	FM	NNP	25	nn
+25	Inc	NNP	22	pobj
+26	.	.	5	punct
+
+

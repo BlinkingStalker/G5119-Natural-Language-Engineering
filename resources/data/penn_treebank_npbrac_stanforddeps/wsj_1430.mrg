@@ -1,0 +1,29 @@
+1	THE	DT	4	det
+2	SUPREME	NNP	3	nn
+3	COURT	NNP	4	nn
+4	ruling	NN	16	nsubj
+5	upholding	VBG	4	partmod
+6	Missouri	NNP	10	poss
+7	's	POS	6	possessive
+8	restrictive	JJ	10	amod
+9	abortion	NN	10	nn
+10	law	NN	5	dobj
+11	was	VBD	16	cop
+12	Webster	NNP	16	nn
+13	vs.	FW	16	nn
+14	Reproductive	NNP	15	nn
+15	Health	NNP	16	nn
+16	Services	NNPS	0	root
+17	.	.	16	punct
+
+1	The	DT	2	det
+2	citation	NN	4	nsubjpass
+3	was	VBD	4	auxpass
+4	misstated	VBN	0	root
+5	in	IN	4	prep
+6	Friday	NNP	8	poss
+7	's	POS	6	possessive
+8	edition	NN	5	pobj
+9	.	.	4	punct
+
+

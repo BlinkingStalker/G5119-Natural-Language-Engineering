@@ -1,0 +1,34 @@
+1	Pierre	NNP	2	nn
+2	Vinken	NNP	9	nsubj
+3	,	,	2	punct
+4	61	CD	5	num
+5	years	NNS	6	npadvmod
+6	old	JJ	2	amod
+7	,	,	2	punct
+8	will	MD	9	aux
+9	join	VB	0	root
+10	the	DT	11	det
+11	board	NN	9	dobj
+12	as	IN	9	prep
+13	a	DT	15	det
+14	nonexecutive	JJ	15	amod
+15	director	NN	12	pobj
+16	Nov.	NNP	9	tmod
+17	29	CD	16	num
+18	.	.	9	punct
+
+1	Mr.	NNP	2	nn
+2	Vinken	NNP	4	nsubj
+3	is	VBZ	4	cop
+4	chairman	NN	0	root
+5	of	IN	4	prep
+6	Elsevier	NNP	7	nn
+7	N.V.	NNP	5	pobj
+8	,	,	7	punct
+9	the	DT	12	det
+10	Dutch	NNP	12	nn
+11	publishing	VBG	12	amod
+12	group	NN	7	appos
+13	.	.	4	punct
+
+

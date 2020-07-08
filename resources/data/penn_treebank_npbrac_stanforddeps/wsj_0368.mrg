@@ -1,0 +1,45 @@
+1	Carl	NNP	3	nn
+2	E.	NNP	3	nn
+3	Pfeiffer	NNP	10	nsubjpass
+4	,	,	3	punct
+5	chief	JJ	7	amod
+6	executive	JJ	7	amod
+7	officer	NN	3	appos
+8	,	,	3	punct
+9	was	VBD	10	auxpass
+10	named	VBN	0	root
+11	to	TO	10	prep
+12	the	DT	14	det
+13	additional	JJ	14	amod
+14	post	NN	11	pobj
+15	of	IN	14	prep
+16	chairman	NN	15	pobj
+17	of	IN	16	prep
+18	this	DT	21	det
+19	specialty-metals	NNS	20	nn
+20	manufacturing	NN	21	nn
+21	concern	NN	17	pobj
+22	.	.	10	punct
+
+1	Robert	NNP	3	nn
+2	C.	NNP	3	nn
+3	Snyder	NNP	15	nsubj
+4	,	,	3	punct
+5	a	DT	6	det
+6	director	NN	3	appos
+7	and	CC	6	cc
+8	chief	NN	10	nn
+9	operating	NN	10	nn
+10	officer	NN	6	conj
+11	of	IN	6	prep
+12	the	DT	13	det
+13	company	NN	11	pobj
+14	,	,	3	punct
+15	succeeds	VBZ	0	root
+16	Mr.	NNP	17	nn
+17	Pfeiffer	NNP	15	dobj
+18	as	IN	15	prep
+19	president	NN	18	pobj
+20	.	.	15	punct
+
+

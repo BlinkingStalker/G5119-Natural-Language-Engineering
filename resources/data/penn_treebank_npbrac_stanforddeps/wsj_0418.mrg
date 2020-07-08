@@ -1,0 +1,67 @@
+1	Mitsui	NNP	4	nsubj
+2	&	CC	1	cc
+3	Co.	NNP	1	conj
+4	said	VBD	0	root
+5	it	PRP	6	nsubj
+6	started	VBD	4	ccomp
+7	a	DT	9	det
+8	joint	JJ	9	amod
+9	venture	NN	6	dobj
+10	with	IN	9	prep
+11	Dae	NNP	12	nn
+12	Woong	NNP	13	nn
+13	Chemical	NNP	14	nn
+14	Co.	NNP	10	pobj
+15	,	,	14	punct
+16	a	DT	19	det
+17	major	JJ	19	amod
+18	pharmaceutical	JJ	19	amod
+19	manufacturer	NN	14	appos
+20	in	IN	19	prep
+21	South	NNP	22	nn
+22	Korea	NNP	20	pobj
+23	,	,	14	punct
+24	to	TO	25	aux
+25	manufacture	VB	9	infmod
+26	antibiotic	JJ	27	amod
+27	medicines	NNS	25	dobj
+28	.	.	4	punct
+
+1	The	DT	3	det
+2	new	JJ	3	amod
+3	company	NN	5	nsubjpass
+4	is	VBZ	5	auxpass
+5	capitalized	VBN	0	root
+6	at	IN	5	prep
+7	about	RB	8	quantmod
+8	$	$	6	pobj
+9	3.5	CD	8	number
+10	million	CD	8	number
+11	.	.	5	punct
+
+1	Mitsui	NNS	2	nsubj
+2	expects	VBZ	0	root
+3	the	DT	5	det
+4	antibiotic	JJ	5	amod
+5	products	NNS	8	nsubjpass
+6	to	TO	8	aux
+7	be	VB	8	auxpass
+8	exported	VBN	2	xcomp
+9	to	TO	8	prep
+10	Southeast	NNP	11	nn
+11	Asia	NNP	9	pobj
+12	and	CC	11	cc
+13	Africa	NNP	11	conj
+14	.	.	2	punct
+
+1	It	PRP	3	nsubj
+2	also	RB	3	advmod
+3	hopes	VBZ	0	root
+4	to	TO	5	aux
+5	enter	VB	3	xcomp
+6	the	DT	8	det
+7	U.S.	NNP	8	nn
+8	market	NN	5	dobj
+9	.	.	3	punct
+
+

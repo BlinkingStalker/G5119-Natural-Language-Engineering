@@ -1,0 +1,40 @@
+1	Westinghouse	NNP	2	nn
+2	Electric	NNP	3	nn
+3	Corp.	NNP	4	nsubj
+4	said	VBD	0	root
+5	it	PRP	7	nsubj
+6	will	MD	7	aux
+7	buy	VB	4	ccomp
+8	Shaw-Walker	NNP	9	nn
+9	Co	NNP	7	dobj
+10	.	.	4	punct
+
+1	Terms	NNS	4	nsubjpass
+2	were	VBD	4	auxpass
+3	n't	RB	4	neg
+4	disclosed	VBN	0	root
+5	.	.	4	punct
+
+1	Shaw-Walker	NNP	9	nsubj
+2	,	,	1	punct
+3	based	VBN	1	partmod
+4	in	IN	3	prep
+5	Muskegon	NNP	4	pobj
+6	,	,	5	punct
+7	Mich.	NNP	5	appos
+8	,	,	1	punct
+9	makes	VBZ	0	root
+10	metal	NN	11	nn
+11	files	NNS	9	dobj
+12	and	CC	11	cc
+13	desks	NNS	11	conj
+14	,	,	11	punct
+15	and	CC	11	cc
+16	seating	NN	11	conj
+17	and	CC	16	cc
+18	office	NN	19	nn
+19	systems	NNS	20	nn
+20	furniture	NN	16	conj
+21	.	.	9	punct
+
+

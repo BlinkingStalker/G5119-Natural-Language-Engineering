@@ -1,0 +1,31 @@
+1	QUANTUM	NNP	2	nn
+2	CHEMICAL	NNP	3	nn
+3	Corp.	NNP	5	poss
+4	's	POS	3	possessive
+5	plant	NN	12	nsubjpass
+6	in	IN	5	prep
+7	Morris	NNP	6	pobj
+8	,	,	7	punct
+9	Ill.	NNP	7	appos
+10	,	,	7	punct
+11	is	VBZ	12	auxpass
+12	expected	VBN	0	root
+13	to	TO	14	aux
+14	resume	VB	12	xcomp
+15	production	NN	14	dobj
+16	in	IN	14	prep
+17	early	JJ	18	amod
+18	1990	CD	16	pobj
+19	.	.	12	punct
+
+1	The	DT	2	det
+2	year	NN	4	nsubjpass
+3	was	VBD	4	auxpass
+4	misstated	VBN	0	root
+5	in	IN	4	prep
+6	Friday	NNP	8	poss
+7	's	POS	6	possessive
+8	editions	NNS	5	pobj
+9	.	.	4	punct
+
+

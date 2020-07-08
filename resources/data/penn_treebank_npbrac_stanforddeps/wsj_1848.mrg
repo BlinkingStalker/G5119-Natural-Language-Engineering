@@ -1,0 +1,52 @@
+1	Randy	NNP	2	nn
+2	Delchamps	NNP	4	nsubjpass
+3	was	VBD	4	auxpass
+4	named	VBN	0	root
+5	chairman	NN	4	xcomp
+6	and	CC	5	cc
+7	chief	JJ	9	amod
+8	executive	NN	9	nn
+9	officer	NN	5	conj
+10	of	IN	5	prep
+11	this	DT	13	det
+12	grocery	NN	13	nn
+13	chain	NN	10	pobj
+14	.	.	4	punct
+
+1	Mr.	NNP	2	nn
+2	Delchamps	NNP	8	nsubj
+3	,	,	2	punct
+4	46	CD	5	num
+5	years	NNS	6	npadvmod
+6	old	JJ	2	amod
+7	,	,	2	punct
+8	succeeds	VBZ	0	root
+9	A.F.	NNP	10	nn
+10	Delchamps	NNP	11	nn
+11	Jr.	NNP	8	dobj
+12	,	,	11	punct
+13	who	WP	14	nsubj
+14	died	VBD	11	rcmod
+15	in	IN	14	prep
+16	a	DT	18	det
+17	plane	NN	18	nn
+18	crash	NN	15	pobj
+19	on	IN	14	prep
+20	Sunday	NNP	19	pobj
+21	at	IN	14	prep
+22	the	DT	23	det
+23	age	NN	21	pobj
+24	of	IN	23	prep
+25	58	CD	24	pobj
+26	.	.	8	punct
+
+1	Randy	NNP	2	nn
+2	Delchamps	NNP	3	nsubj
+3	retains	VBZ	0	root
+4	his	PRP$	5	poss
+5	position	NN	3	dobj
+6	as	IN	5	prep
+7	president	NN	6	pobj
+8	.	.	3	punct
+
+

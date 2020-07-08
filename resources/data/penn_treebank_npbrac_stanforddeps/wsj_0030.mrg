@@ -1,0 +1,27 @@
+1	James	NNP	3	nn
+2	L.	NNP	3	nn
+3	Pate	NNP	11	nsubjpass
+4	,	,	3	punct
+5	54-year-old	JJ	8	amod
+6	executive	NN	8	nn
+7	vice	NN	8	nn
+8	president	NN	3	appos
+9	,	,	3	punct
+10	was	VBD	11	auxpass
+11	named	VBN	0	root
+12	a	DT	13	det
+13	director	NN	11	xcomp
+14	of	IN	13	prep
+15	this	DT	17	det
+16	oil	NN	17	nn
+17	concern	NN	14	pobj
+18	,	,	11	punct
+19	expanding	VBG	11	xcomp
+20	the	DT	21	det
+21	board	NN	19	dobj
+22	to	TO	19	prep
+23	14	CD	24	num
+24	members	NNS	22	pobj
+25	.	.	11	punct
+
+

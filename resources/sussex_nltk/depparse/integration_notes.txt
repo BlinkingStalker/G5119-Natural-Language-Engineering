@@ -1,0 +1,20 @@
+--Parser Integration Notes--
+
+Definitions:
+
+1. Create a module: sussex_nltk.parse
+2. Define a function: sussex_nltk.parse.dep_parse_sentences_arceager
+
+Function "dep_parse_sentences_arceager":
+
+- Performs batch dependency parsing over a list of sentences.
+
+- Input is single argument, which is a list of PoS-tagged sentences. Where each tagged sentence is a list of 2-tuples, the first element of which is the token, and the second the PoS.
+
+- Output is a LIST over ParsedSentence instances. (This is to make example code simpler, we need to investigate the feasibility of holding all of Amazon reviews in memory)
+
+- In order to parse the sentences, they should be passed as the first argument to my parser function: parsing.experimentation.parse_sentences. The second argument should be the path to the "penn-stanford-index" file. The third argument should be the path to the "penn-stanford-model" file. This function will return a generator over ParsedSentence instances.
+
+- The "penn-stanford-index" and "penn-stanford-model" files are located in the "model_files" directory. Be sure to link to them relative to the sussex_root (or whatever you called it).
+
+

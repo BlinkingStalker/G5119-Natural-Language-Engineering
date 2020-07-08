@@ -1,0 +1,30 @@
+1	CONCORDE	NNP	3	nn
+2	trans-Atlantic	JJ	3	amod
+3	flights	NNS	5	nsubj
+4	are	VBP	5	cop
+5	$	$	0	root
+6	2,400	CD	5	num
+7	to	TO	5	prep
+8	Paris	NNP	7	pobj
+9	and	CC	5	cc
+10	$	$	5	conj
+11	3,200	CD	10	num
+12	to	TO	10	prep
+13	London	NNP	12	pobj
+14	.	.	5	punct
+
+1	In	IN	12	prep
+2	a	DT	5	det
+3	Centennial	NNP	4	nn
+4	Journal	NNP	5	nn
+5	article	NN	1	pobj
+6	Oct.	NNP	12	tmod
+7	5	CD	6	num
+8	,	,	12	punct
+9	the	DT	10	det
+10	fares	NNS	12	nsubjpass
+11	were	VBD	12	auxpass
+12	reversed	VBN	0	root
+13	.	.	12	punct
+
+

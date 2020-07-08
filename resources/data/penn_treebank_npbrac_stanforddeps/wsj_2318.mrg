@@ -1,0 +1,29 @@
+1	Britain	NNP	5	poss
+2	's	POS	1	possessive
+3	retail	JJ	5	amod
+4	price	NN	5	nn
+5	index	NN	6	nsubj
+6	rose	VBD	26	ccomp
+7	0.7	CD	8	num
+8	%	NN	6	dobj
+9	in	IN	6	prep
+10	September	NNP	9	pobj
+11	from	IN	6	prep
+12	August	NNP	11	pobj
+13	and	CC	6	cc
+14	was	VBD	6	conj
+15	up	RB	14	advmod
+16	7.6	CD	17	num
+17	%	NN	15	pobj
+18	for	IN	14	prep
+19	the	DT	20	det
+20	year	NN	18	pobj
+21	,	,	26	punct
+22	the	DT	25	det
+23	Central	NNP	25	nn
+24	Statistical	NNP	25	nn
+25	Office	NNP	26	nsubj
+26	said	VBD	0	root
+27	.	.	26	punct
+
+

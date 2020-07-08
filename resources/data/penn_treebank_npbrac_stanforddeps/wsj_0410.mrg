@@ -1,0 +1,35 @@
+1	WPP	NNP	2	nn
+2	GROUP	NNP	4	poss
+3	'S	POS	2	possessive
+4	Ogilvy	NNP	7	nsubj
+5	&	CC	4	cc
+6	Mather	NNP	4	conj
+7	expects	VBZ	0	root
+8	profit	NN	9	nn
+9	margins	NNS	11	nsubj
+10	to	TO	11	aux
+11	improve	VB	7	xcomp
+12	to	TO	11	prep
+13	11.5	CD	14	num
+14	%	NN	12	pobj
+15	in	IN	11	prep
+16	1990	CD	15	pobj
+17	in	IN	11	prep
+18	the	DT	19	det
+19	U.S.	NNP	17	pobj
+
+1	Yesterday	NN	3	poss
+2	's	POS	1	possessive
+3	edition	NN	6	nsubj
+4	did	VBD	6	aux
+5	n't	RB	6	neg
+6	specify	VB	0	root
+7	where	WRB	11	advmod
+8	the	DT	9	det
+9	improvement	NN	11	nsubj
+10	would	MD	11	aux
+11	take	VB	6	advcl
+12	place	NN	11	dobj
+13	.	.	6	punct
+
+

@@ -1,0 +1,50 @@
+1	Roy	NNP	3	nn
+2	E.	NNP	3	nn
+3	Parrott	NNP	18	nsubjpass
+4	,	,	3	punct
+5	the	DT	6	det
+6	company	NN	8	poss
+7	's	POS	6	possessive
+8	president	NN	3	appos
+9	and	CC	8	cc
+10	chief	NN	12	nn
+11	operating	NN	12	nn
+12	officer	NN	8	conj
+13	since	IN	8	prep
+14	Sept.	NNP	13	pobj
+15	1	CD	14	num
+16	,	,	3	punct
+17	was	VBD	18	auxpass
+18	named	VBN	0	root
+19	to	TO	18	prep
+20	its	PRP$	21	poss
+21	board	NN	19	pobj
+22	.	.	18	punct
+
+1	The	DT	2	det
+2	appointment	NN	3	nsubj
+3	increased	VBD	0	root
+4	the	DT	5	det
+5	number	NN	3	dobj
+6	of	IN	5	prep
+7	directors	NNS	6	pobj
+8	to	TO	3	prep
+9	10	CD	8	pobj
+10	,	,	9	punct
+11	three	CD	16	nsubj
+12	of	IN	11	prep
+13	whom	WP	12	pobj
+14	are	VBP	16	cop
+15	company	NN	16	nn
+16	employees	NNS	9	rcmod
+17	.	.	3	punct
+
+1	Simpson	NNP	6	nsubj
+2	is	VBZ	6	cop
+3	an	DT	6	det
+4	auto	NN	5	nn
+5	parts	NNS	6	nn
+6	maker	NN	0	root
+7	.	.	6	punct
+
+

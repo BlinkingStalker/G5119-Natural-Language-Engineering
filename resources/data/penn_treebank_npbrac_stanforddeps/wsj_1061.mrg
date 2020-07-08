@@ -1,0 +1,39 @@
+1	The	DT	2	det
+2	Navy	NNP	3	nsubj
+3	awarded	VBD	0	root
+4	Litton	NNP	5	nn
+5	Industries	NNPS	6	nn
+6	Inc.	NNP	10	poss
+7	's	POS	6	possessive
+8	Ingalls	NNP	9	nn
+9	Shipbuilding	NNP	10	nn
+10	division	NN	3	iobj
+11	$	$	3	dobj
+12	15.5	CD	11	number
+13	million	CD	11	number
+14	for	IN	3	prep
+15	shipyard	NN	16	nn
+16	services	NNS	14	pobj
+17	on	IN	16	prep
+18	the	DT	21	det
+19	Aegis	NNP	20	nn
+20	cruiser	NN	21	nn
+21	program	NN	17	pobj
+22	.	.	3	punct
+
+1	The	DT	2	det
+2	award	NN	3	nsubj
+3	exercises	VBZ	0	root
+4	a	DT	6	det
+5	Navy	NNP	6	nn
+6	option	NN	3	dobj
+7	to	TO	8	aux
+8	extend	VB	6	infmod
+9	a	DT	10	det
+10	contract	NN	8	dobj
+11	given	VBN	10	partmod
+12	in	IN	11	prep
+13	1984	CD	12	pobj
+14	.	.	3	punct
+
+

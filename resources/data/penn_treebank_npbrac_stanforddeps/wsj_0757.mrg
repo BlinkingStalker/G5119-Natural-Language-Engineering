@@ -1,0 +1,117 @@
+1	Ready	JJ	8	dep
+2	,	,	1	punct
+3	Willing	JJ	1	conj
+4	and	CC	1	cc
+5	Unable	JJ	1	conj
+6	I	PRP	8	nsubj
+7	always	RB	8	advmod
+8	lift	VBP	0	root
+9	the	DT	10	det
+10	hood	NN	8	dobj
+11	When	WRB	16	advmod
+12	my	PRP$	13	poss
+13	car	NN	16	nsubj
+14	does	VBZ	16	aux
+15	n't	RB	16	neg
+16	start	VB	8	advcl
+17	;	:	8	punct
+18	If	IN	24	mark
+19	gadgets	NNS	24	nsubj
+20	at	IN	19	prep
+21	home	NN	20	pobj
+22	do	VBP	24	aux
+23	n't	RB	24	neg
+24	work	VB	27	advcl
+25	I	PRP	27	nsubj
+26	coolly	RB	27	advmod
+27	take	VBP	8	parataxis
+28	them	PRP	27	dobj
+29	apart	RB	27	advmod
+30	.	.	8	punct
+
+1	I	PRP	3	nsubj
+2	'll	MD	3	aux
+3	admit	VB	0	root
+4	there	EX	5	expl
+5	's	VBZ	3	ccomp
+6	nothing	NN	5	nsubj
+7	wrong	JJ	6	amod
+8	That	IN	12	dobj
+9	I	PRP	12	nsubj
+10	ever	RB	12	advmod
+11	do	VBP	12	aux
+12	find	VB	6	rcmod
+13	,	,	3	punct
+14	But	CC	3	cc
+15	it	PRP	17	nsubj
+16	's	VBZ	17	cop
+17	nice	JJ	3	conj
+18	when	WRB	20	advmod
+19	people	NNS	20	nsubj
+20	say	VBP	17	advcl
+21	I	PRP	24	nsubj
+22	appear	VBP	24	cop
+23	mechanically	RB	24	advmod
+24	inclined	JJ	20	ccomp
+25	.	.	3	punct
+
+1	--	:	3	punct
+2	Joshua	NNP	3	nn
+3	Adams	NNP	0	root
+4	.	.	3	punct
+
+1	Flick	NN	2	nn
+2	Shock	NN	0	root
+
+1	At	IN	8	prep
+2	the	DT	3	det
+3	movies	NNS	1	pobj
+4	today	NN	8	tmod
+5	In	IN	8	prep
+6	detail	NN	5	pobj
+7	you	PRP	8	nsubj
+8	see	VBP	0	root
+9	What	WP	14	dobj
+10	the	DT	11	det
+11	prof	NN	14	nsubj
+12	would	MD	14	aux
+13	n't	RB	14	neg
+14	show	VB	8	ccomp
+15	In	IN	14	prep
+16	Physiology	NNP	17	nn
+17	Three	NNP	15	pobj
+18	.	.	8	punct
+
+1	--	:	3	punct
+2	Robert	NNP	3	nn
+3	Gordon	NNP	0	root
+4	.	.	3	punct
+
+1	Candid	JJ	2	amod
+2	Comment	NN	0	root
+
+1	Do	VBP	3	aux
+2	n't	RB	3	neg
+3	worry	VB	0	root
+4	;	:	3	punct
+5	people	NNS	7	nsubj
+6	will	MD	7	aux
+7	learn	VB	3	parataxis
+8	to	TO	9	aux
+9	read	VB	7	xcomp
+10	as	RB	11	advmod
+11	long	RB	9	advmod
+12	as	IN	14	mark
+13	there	EX	14	expl
+14	are	VBP	11	ccomp
+15	TV	NN	16	nn
+16	program	NN	17	nn
+17	listings	NNS	14	nsubj
+18	.	.	3	punct
+
+1	--	:	3	punct
+2	John	NNP	3	nn
+3	Drybred	NNP	0	root
+4	.	.	3	punct
+
+

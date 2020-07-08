@@ -1,0 +1,36 @@
+1	Annualized	VBN	3	amod
+2	interest	NN	3	nn
+3	rates	NNS	0	root
+4	on	IN	3	prep
+5	certain	JJ	6	amod
+6	investments	NNS	4	pobj
+7	as	IN	8	mark
+8	reported	VBN	3	dep
+9	by	IN	8	prep
+10	the	DT	13	det
+11	Federal	NNP	12	nn
+12	Reserve	NNP	13	nn
+13	Board	NNP	9	pobj
+14	on	IN	8	prep
+15	a	DT	17	det
+16	weekly-average	JJ	17	amod
+17	basis	NN	14	pobj
+18	:	:	3	punct
+19	1989	CD	3	tmod
+20	and	CC	19	cc
+21	Wednesday	NNP	19	conj
+22	October	NNP	21	dep
+23	4	CD	22	num
+24	,	,	22	punct
+25	1989	CD	22	appos
+26	.	.	3	punct
+
+1	c-Yields	NNS	0	root
+2	,	,	1	punct
+3	adjusted	VBN	1	partmod
+4	for	IN	3	prep
+5	constant	JJ	6	amod
+6	maturity	NN	4	pobj
+7	.	.	1	punct
+
+

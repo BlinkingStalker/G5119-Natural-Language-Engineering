@@ -1,0 +1,49 @@
+1	Roger	NNP	3	nn
+2	M.	NNP	3	nn
+3	Marino	NNP	8	nsubjpass
+4	,	,	3	punct
+5	president	NN	3	appos
+6	,	,	3	punct
+7	was	VBD	8	auxpass
+8	named	VBN	0	root
+9	to	TO	8	prep
+10	the	DT	12	det
+11	new	JJ	12	amod
+12	post	NN	9	pobj
+13	of	IN	12	prep
+14	vice	NN	15	nn
+15	chairman	NN	13	pobj
+16	.	.	8	punct
+
+1	Michael	NNP	2	nn
+2	Ruettgers	NNP	14	nsubjpass
+3	,	,	2	punct
+4	who	WP	9	nsubj
+5	had	VBD	9	aux
+6	been	VBN	9	cop
+7	executive	JJ	9	amod
+8	vice	NN	9	nn
+9	president	NN	2	rcmod
+10	,	,	9	punct
+11	operations	NNS	9	appos
+12	,	,	9	punct
+13	was	VBD	14	auxpass
+14	named	VBN	0	root
+15	president	NN	14	xcomp
+16	and	CC	15	cc
+17	chief	NN	19	nn
+18	operating	NN	19	nn
+19	officer	NN	15	conj
+20	.	.	14	punct
+
+1	EMC	NNP	2	nsubj
+2	manufactures	VBZ	0	root
+3	data-storage	JJ	4	amod
+4	systems	NNS	2	dobj
+5	for	IN	4	prep
+6	mainframes	NNS	5	pobj
+7	and	CC	6	cc
+8	minicomputers	NNS	6	conj
+9	.	.	2	punct
+
+

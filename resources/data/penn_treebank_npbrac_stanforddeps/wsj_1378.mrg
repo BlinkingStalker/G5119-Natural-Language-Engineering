@@ -1,0 +1,42 @@
+1	American	NNP	2	nn
+2	Telephone	NNP	5	nn
+3	&	CC	2	cc
+4	Telegraph	NNP	2	conj
+5	Co.	NNP	6	nsubj
+6	said	VBD	0	root
+7	it	PRP	9	nsubj
+8	will	MD	9	aux
+9	lay	VB	6	ccomp
+10	off	RP	9	prt
+11	75	CD	13	number
+12	to	TO	13	dep
+13	85	CD	14	num
+14	technicians	NNS	9	dobj
+15	here	RB	9	advmod
+16	,	,	9	punct
+17	effective	JJ	9	dep
+18	Nov.	NNP	17	dep
+19	1	CD	18	num
+20	.	.	6	punct
+
+1	The	DT	2	det
+2	workers	NNS	3	nsubj
+3	install	VBP	0	root
+4	,	,	3	punct
+5	maintain	VBP	3	conj
+6	and	CC	3	cc
+7	repair	VBP	3	conj
+8	its	PRP$	11	poss
+9	private	JJ	11	amod
+10	branch	NN	11	nn
+11	exchanges	NNS	3	dobj
+12	,	,	11	punct
+13	which	WDT	18	nsubj
+14	are	VBP	18	cop
+15	large	JJ	18	amod
+16	intracompany	JJ	18	amod
+17	telephone	NN	18	nn
+18	networks	NNS	11	rcmod
+19	.	.	3	punct
+
+

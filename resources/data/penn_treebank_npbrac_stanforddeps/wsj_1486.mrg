@@ -1,0 +1,110 @@
+1	Following	VBG	0	root
+2	is	VBZ	1	aux
+3	a	DT	5	det
+4	weekly	JJ	5	amod
+5	listing	NN	1	nsubj
+6	of	IN	5	prep
+7	unadited	JJ	10	amod
+8	net	JJ	10	amod
+9	asset	NN	10	nn
+10	values	NNS	6	pobj
+11	of	IN	10	prep
+12	publicly	RB	13	advmod
+13	traded	JJ	16	amod
+14	investment	NN	15	nn
+15	fund	NN	16	nn
+16	shares	NNS	11	pobj
+17	,	,	5	punct
+18	reported	VBN	5	partmod
+19	by	IN	18	prep
+20	the	DT	21	det
+21	companies	NNS	19	pobj
+22	as	IN	18	prep
+23	of	IN	22	pcomp
+24	Friday	NNP	26	poss
+25	's	POS	24	possessive
+26	close	NN	23	pobj
+27	.	.	1	punct
+
+1	Also	RB	2	advmod
+2	shown	VBN	0	root
+3	is	VBZ	2	auxpass
+4	the	DT	8	det
+5	closing	NN	8	nn
+6	listed	JJ	8	amod
+7	market	NN	8	nn
+8	price	NN	2	nsubjpass
+9	or	CC	8	cc
+10	a	DT	13	det
+11	dealer-to-dealer	JJ	13	amod
+12	asked	JJ	13	amod
+13	price	NN	8	conj
+14	of	IN	8	prep
+15	each	DT	16	det
+16	fund	NN	18	poss
+17	's	POS	16	possessive
+18	shares	NNS	14	pobj
+19	,	,	8	punct
+20	with	IN	8	prep
+21	the	DT	22	det
+22	percentage	NN	20	pobj
+23	of	IN	22	prep
+24	difference	NN	23	pobj
+25	.	.	2	punct
+
+1	Closed	NNP	2	nn
+2	End	NNP	4	nn
+3	Bond	NNP	4	nn
+4	Funds	NNPS	0	root
+
+1	Flexible	NNP	3	nn
+2	Portfolio	NNP	3	nn
+3	Funds	NNPS	0	root
+
+1	Specialized	NNP	2	nn
+2	Equity	NNP	0	root
+3	and	CC	2	cc
+4	Convertible	NNP	5	nn
+5	Funds	NNPS	2	conj
+
+1	a	SYM	3	dep
+2	-	:	3	punct
+3	Ex-dividend	NN	0	root
+4	.	.	3	punct
+
+1	b	SYM	3	dep
+2	-	:	3	punct
+3	As	IN	0	root
+4	of	IN	3	pcomp
+5	Thursday	NNP	7	poss
+6	's	POS	5	possessive
+7	close	NN	4	pobj
+8	.	.	3	punct
+
+1	c	SYM	3	dep
+2	-	:	3	punct
+3	Translated	VBN	0	root
+4	at	IN	3	prep
+5	Commercial	NNP	8	nn
+6	Rand	NNP	8	nn
+7	exchange	NN	8	nn
+8	rate	NN	4	pobj
+9	.	.	3	punct
+
+1	e	SYM	3	dep
+2	-	:	3	punct
+3	In	IN	0	root
+4	Canadian	JJ	5	amod
+5	dollars	NNS	3	pobj
+6	.	.	3	punct
+
+1	f	SYM	3	dep
+2	-	:	3	punct
+3	As	IN	0	root
+4	of	IN	3	pcomp
+5	Wednesday	NNP	7	poss
+6	's	POS	5	possessive
+7	close	NN	4	pobj
+8	.	.	3	punct
+
+

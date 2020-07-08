@@ -1,0 +1,71 @@
+1	Idle	JJ	2	amod
+2	Thought	NN	0	root
+
+1	To	TO	2	aux
+2	spend	VB	26	dep
+3	a	DT	7	det
+4	carefree	JJ	7	amod
+5	,	,	7	punct
+6	idle	JJ	7	amod
+7	day	NN	2	tmod
+8	,	,	2	punct
+9	When	WRB	11	advmod
+10	duty	NN	11	nsubj
+11	calls	VBZ	14	advcl
+12	,	,	14	punct
+13	to	TO	14	aux
+14	pay	VB	2	dep
+15	no	DT	16	det
+16	heed	NN	14	dobj
+17	,	,	2	punct
+18	To	TO	19	aux
+19	while	VB	2	dep
+20	the	DT	22	det
+21	precious	JJ	22	amod
+22	hours	NNS	19	dobj
+23	away	RB	19	prt
+24	--	:	26	punct
+25	Character	NN	26	nsubj
+26	is	VBZ	0	root
+27	what	WP	29	dobj
+28	you	PRP	29	nsubj
+29	need	VBP	26	ccomp
+30	.	.	26	punct
+
+1	--	:	3	punct
+2	May	NNP	3	nn
+3	Richstone	NNP	0	root
+4	.	.	3	punct
+
+1	Telecussed	VBD	0	erased
+
+1	The	DT	2	det
+2	guy	NN	14	nsubjpass
+3	who	WP	4	nsubj
+4	throws	VBZ	2	rcmod
+5	an	DT	6	det
+6	intercept	NN	4	dobj
+7	'Cause	IN	10	mark
+8	his	PRP$	9	poss
+9	receiver	NN	10	nsubj
+10	slips	VBZ	4	advcl
+11	Should	MD	14	aux
+12	somehow	RB	14	advmod
+13	be	VB	14	auxpass
+14	advised	VBN	0	root
+15	that	IN	20	complm
+16	we	PRP	20	nsubj
+17	At	IN	16	prep
+18	home	NN	17	pobj
+19	can	MD	20	aux
+20	read	VB	14	ccomp
+21	his	PRP$	22	poss
+22	lips	NNS	20	dobj
+23	.	.	14	punct
+
+1	--	:	3	punct
+2	Dick	NNP	3	nn
+3	Emmons	NNP	0	root
+4	.	.	3	punct
+
+

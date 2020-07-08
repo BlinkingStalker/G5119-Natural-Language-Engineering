@@ -1,0 +1,39 @@
+1	Richard	NNP	3	nn
+2	J.	NNP	3	nn
+3	Pinola	NNP	5	nsubjpass
+4	was	VBD	5	auxpass
+5	elected	VBN	0	root
+6	to	TO	5	prep
+7	the	DT	8	det
+8	board	NN	6	pobj
+9	of	IN	8	prep
+10	this	DT	13	det
+11	personnel	NNS	12	nn
+12	consulting	NN	13	nn
+13	concern	NN	9	pobj
+14	,	,	5	punct
+15	increasing	VBG	5	xcomp
+16	its	PRP$	17	poss
+17	size	NN	15	dobj
+18	to	TO	15	prep
+19	nine	CD	20	num
+20	members	NNS	18	pobj
+21	.	.	5	punct
+
+1	Mr.	NNP	2	nn
+2	Pinola	NNP	4	nsubj
+3	is	VBZ	4	cop
+4	president	NN	0	root
+5	and	CC	4	cc
+6	chief	JJ	8	amod
+7	operating	VBG	8	amod
+8	officer	NN	4	conj
+9	of	IN	4	prep
+10	Penn	NNP	13	nn
+11	Mutual	NNP	13	nn
+12	Life	NNP	13	nn
+13	Insurance	NNP	14	nn
+14	Co	NNP	9	pobj
+15	.	.	4	punct
+
+

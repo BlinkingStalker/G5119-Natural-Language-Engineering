@@ -1,0 +1,47 @@
+1	Pacific	NNP	3	nn
+2	First	NNP	3	nn
+3	Financial	NNP	4	nn
+4	Corp.	NNP	5	nsubj
+5	said	VBD	0	root
+6	shareholders	NNS	7	nsubj
+7	approved	VBD	5	ccomp
+8	its	PRP$	9	poss
+9	acquisition	NN	7	dobj
+10	by	IN	9	prep
+11	Royal	NNP	12	nn
+12	Trustco	NNP	13	nn
+13	Ltd.	NNP	10	pobj
+14	of	IN	13	prep
+15	Toronto	NNP	14	pobj
+16	for	IN	9	prep
+17	$	$	16	pobj
+18	27	CD	17	num
+19	a	DT	20	det
+20	share	NN	17	npadvmod
+21	,	,	17	punct
+22	or	CC	17	cc
+23	$	$	17	conj
+24	212	CD	23	number
+25	million	CD	23	number
+26	.	.	5	punct
+
+1	The	DT	4	det
+2	thrift	NN	4	nn
+3	holding	VBG	4	amod
+4	company	NN	5	nsubj
+5	said	VBD	0	root
+6	it	PRP	7	nsubj
+7	expects	VBZ	5	ccomp
+8	to	TO	9	aux
+9	obtain	VB	7	xcomp
+10	regulatory	JJ	11	amod
+11	approval	NN	9	dobj
+12	and	CC	9	cc
+13	complete	VB	9	conj
+14	the	DT	15	det
+15	transaction	NN	13	dobj
+16	by	IN	9	prep
+17	year-end	NN	16	pobj
+18	.	.	5	punct
+
+

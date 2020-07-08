@@ -1,0 +1,47 @@
+1	Mellon	NNP	2	nn
+2	Bank	NNP	3	nn
+3	Corp.	NNP	4	nsubj
+4	said	VBD	0	root
+5	directors	NNS	6	nsubj
+6	authorized	VBD	4	ccomp
+7	the	DT	8	det
+8	buy-back	NN	6	dobj
+9	of	IN	8	prep
+10	as	RB	13	quantmod
+11	many	JJ	13	quantmod
+12	as	IN	13	quantmod
+13	250,000	CD	15	num
+14	common	JJ	15	amod
+15	shares	NNS	9	pobj
+16	.	.	4	punct
+
+1	The	DT	4	det
+2	bank	NN	4	nn
+3	holding	VBG	4	amod
+4	company	NN	5	nsubj
+5	said	VBD	0	root
+6	stock	NN	10	nsubjpass
+7	repurchased	VBN	6	partmod
+8	will	MD	10	aux
+9	be	VB	10	auxpass
+10	used	VBN	5	ccomp
+11	to	TO	12	aux
+12	meet	VB	10	xcomp
+13	requirements	NNS	12	dobj
+14	for	IN	13	prep
+15	the	DT	16	det
+16	company	NN	19	poss
+17	's	POS	16	possessive
+18	benefit	NN	19	nn
+19	plans	NNS	14	pobj
+20	.	.	5	punct
+
+1	Mellon	NNP	2	nsubj
+2	has	VBZ	0	root
+3	36.6	CD	4	number
+4	million	CD	5	num
+5	shares	NNS	2	dobj
+6	outstanding	JJ	5	amod
+7	.	.	2	punct
+
+

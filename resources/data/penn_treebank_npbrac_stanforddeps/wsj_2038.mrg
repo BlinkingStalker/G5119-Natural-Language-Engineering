@@ -1,0 +1,84 @@
+1	Skoal	NNP	2	nn
+2	Daze	NNP	0	root
+
+1	I	PRP	3	nsubj
+2	've	VBP	3	aux
+3	learned	VBN	0	root
+4	the	DT	6	det
+5	hard	JJ	6	amod
+6	way	NN	3	dobj
+7	that	IN	11	complm
+8	too	RB	9	advmod
+9	much	JJ	10	amod
+10	booze	NN	11	nsubj
+11	Takes	VBZ	3	ccomp
+12	revenge	NN	11	dobj
+13	the	DT	15	det
+14	next	JJ	15	amod
+15	day	NN	11	tmod
+16	about	IN	11	prep
+17	nine	CD	16	pobj
+18	;	:	3	punct
+19	No	DT	20	det
+20	wonder	NN	3	dep
+21	I	PRP	22	nsubj
+22	say	VBP	20	ccomp
+23	,	,	22	punct
+24	``	``	22	punct
+25	I	PRP	26	nsubj
+26	drink	VBP	22	ccomp
+27	to	TO	26	prep
+28	your	PRP$	29	poss
+29	health	NN	27	pobj
+30	''	''	22	punct
+31	--	:	20	punct
+32	It	PRP	20	dep
+33	certainly	RB	20	dep
+34	is	VBZ	20	dep
+35	n't	RB	34	neg
+36	to	TO	34	prep
+37	mine	PRP	36	pobj
+38	!	.	3	punct
+
+1	--	:	4	punct
+2	George	NNP	4	nn
+3	O.	NNP	4	nn
+4	Ludcke	NNP	0	root
+5	.	.	4	punct
+
+1	Spaced	NNP	2	amod
+2	Out	NNP	0	root
+
+1	Those	DT	3	det
+2	supermarket	NN	3	nn
+3	tabloids	NNS	4	nsubj
+4	Make	VBP	0	root
+5	me	PRP	6	nsubj
+6	feel	VB	4	ccomp
+7	slow	JJ	6	acomp
+8	Because	IN	13	mark
+9	I	PRP	13	nsubj
+10	still	RB	13	advmod
+11	have	VBP	13	aux
+12	n't	RB	13	neg
+13	seen	VBN	4	advcl
+
+1	--	:	3	punct
+2	Bruce	NNP	3	nn
+3	Kafaroff	NNP	0	root
+4	.	.	3	punct
+
+1	Daffynition	NNP	0	erased
+
+1	Repression	NN	0	root
+2	:	:	1	punct
+3	emote	VB	4	dep
+4	control	NN	1	dep
+5	.	.	1	punct
+
+1	--	:	3	punct
+2	Daisy	NNP	3	nn
+3	Brown	NNP	0	root
+4	.	.	3	punct
+
+

@@ -1,0 +1,47 @@
+1	Barbara	NNP	3	nn
+2	Hackman	NNP	3	nn
+3	Franklin	NNP	11	nsubjpass
+4	,	,	3	punct
+5	president	NN	3	appos
+6	of	IN	5	prep
+7	Franklin	NNP	8	nn
+8	Associates	NNPS	6	pobj
+9	,	,	3	punct
+10	was	VBD	11	auxpass
+11	elected	VBN	0	root
+12	a	DT	13	det
+13	director	NN	11	xcomp
+14	of	IN	13	prep
+15	this	DT	18	det
+16	building	NN	17	nn
+17	products	NNS	18	nn
+18	maker	NN	14	pobj
+19	.	.	11	punct
+
+1	Ms.	NNP	2	nn
+2	Franklin	NNP	8	nsubj
+3	,	,	2	punct
+4	49	CD	5	num
+5	years	NNS	6	npadvmod
+6	old	JJ	2	amod
+7	,	,	2	punct
+8	fills	VBZ	0	root
+9	the	DT	10	det
+10	position	NN	8	dobj
+11	vacated	VBN	10	partmod
+12	by	IN	11	prep
+13	Naomi	NNP	15	nn
+14	G.	NNP	15	nn
+15	Albanese	NNP	12	pobj
+16	,	,	15	punct
+17	who	WP	18	nsubj
+18	retired	VBD	15	rcmod
+19	earlier	RBR	21	advmod
+20	this	DT	21	det
+21	year	NN	18	tmod
+22	at	IN	18	prep
+23	age	NN	22	pobj
+24	72	CD	23	num
+25	.	.	8	punct
+
+

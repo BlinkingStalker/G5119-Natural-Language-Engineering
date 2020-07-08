@@ -1,0 +1,30 @@
+1	NCNB	NNP	2	nn
+2	Corp.	NNP	3	nsubj
+3	raised	VBD	0	root
+4	$	$	3	dobj
+5	1	CD	4	number
+6	billion	CD	4	number
+7	in	IN	4	prep
+8	new	JJ	9	amod
+9	capital	NN	7	pobj
+10	during	IN	3	prep
+11	the	DT	13	det
+12	third	JJ	13	amod
+13	quarter	NN	10	pobj
+14	.	.	3	punct
+
+1	In	IN	12	prep
+2	yesterday	NN	4	poss
+3	's	POS	2	possessive
+4	edition	NN	1	pobj
+5	,	,	12	punct
+6	the	DT	7	det
+7	amount	NN	12	nsubjpass
+8	of	IN	7	prep
+9	new	JJ	10	amod
+10	capital	NN	8	pobj
+11	was	VBD	12	auxpass
+12	misstated	VBN	0	root
+13	.	.	12	punct
+
+

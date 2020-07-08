@@ -1,0 +1,43 @@
+1	PARKER	NNP	2	nn
+2	HANNIFIN	NNP	3	nn
+3	Corp.	NNP	14	nsubj
+4	,	,	3	punct
+5	which	WDT	7	nsubj
+6	is	VBZ	7	aux
+7	selling	VBG	3	rcmod
+8	three	CD	12	num
+9	automotive	JJ	11	amod
+10	replacement	NN	11	nn
+11	parts	NNS	12	nn
+12	divisions	NNS	7	dobj
+13	,	,	3	punct
+14	said	VBD	0	root
+15	it	PRP	17	nsubj
+16	will	MD	17	aux
+17	retain	VB	14	ccomp
+18	its	PRP$	24	poss
+19	Automotive	NNP	20	nn
+20	Connectors	NNPS	24	nn
+21	and	CC	20	cc
+22	Cliff	NNP	23	nn
+23	Impact	NNP	20	conj
+24	divisions	NNS	17	dobj
+25	.	.	14	punct
+
+1	The	DT	2	det
+2	divisions	NNS	10	nsubjpass
+3	that	WDT	7	dobj
+4	Parker	NNP	5	nn
+5	Hannifin	NNP	7	nsubj
+6	is	VBZ	7	aux
+7	retaining	VBG	2	rcmod
+8	were	VBD	10	auxpass
+9	n't	RB	10	neg
+10	mentioned	VBN	0	root
+11	in	IN	10	prep
+12	Thursday	NNP	14	poss
+13	's	POS	12	possessive
+14	edition	NN	11	pobj
+15	.	.	10	punct
+
+

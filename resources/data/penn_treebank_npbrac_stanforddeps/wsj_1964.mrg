@@ -1,0 +1,42 @@
+1	TRADING	NN	2	nn
+2	VOLUME	NN	18	nsubj
+3	in	IN	2	prep
+4	Standard	NNP	9	poss
+5	&	CC	4	cc
+6	Poor	NNP	4	conj
+7	's	POS	4	possessive
+8	500	CD	9	num
+9	stock-index	NN	10	nn
+10	futures	NNS	11	nn
+11	contracts	NNS	3	pobj
+12	on	IN	2	prep
+13	the	DT	16	det
+14	Chicago	NNP	16	nn
+15	Mercantile	NNP	16	nn
+16	Exchange	NNP	12	pobj
+17	Monday	NNP	2	tmod
+18	totaled	VBD	0	root
+19	73,803	CD	20	num
+20	contracts	NNS	18	dobj
+21	.	.	18	punct
+
+1	Yesterday	NN	3	poss
+2	's	POS	1	possessive
+3	edition	NN	5	nsubj
+4	incorrectly	RB	5	advmod
+5	reported	VBD	0	root
+6	Monday	NNP	9	poss
+7	's	POS	6	possessive
+8	trading	NN	9	nn
+9	volume	NN	5	dobj
+10	as	IN	5	prep
+11	a	DT	12	det
+12	record	NN	10	pobj
+13	for	IN	12	prep
+14	the	DT	17	det
+15	S&P	NNP	17	nn
+16	500	CD	15	num
+17	contract	NN	13	pobj
+18	.	.	5	punct
+
+

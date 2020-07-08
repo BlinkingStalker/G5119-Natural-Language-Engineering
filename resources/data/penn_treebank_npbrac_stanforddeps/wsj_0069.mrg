@@ -1,0 +1,47 @@
+1	Michael	NNP	2	nn
+2	Henderson	NNP	19	nsubj
+3	,	,	2	punct
+4	51-year-old	JJ	7	amod
+5	group	NN	7	nn
+6	chief	NN	7	nn
+7	executive	NN	2	appos
+8	of	IN	7	prep
+9	this	DT	15	det
+10	U.K.	NNP	15	nn
+11	metals	NNS	15	nn
+12	and	CC	11	cc
+13	industrial	JJ	14	amod
+14	materials	NNS	11	conj
+15	maker	NN	8	pobj
+16	,	,	2	punct
+17	will	MD	19	aux
+18	become	VB	19	cop
+19	chairman	NN	0	root
+20	in	IN	19	prep
+21	May	NNP	20	pobj
+22	,	,	19	punct
+23	succeeding	VBG	19	partmod
+24	Ian	NNP	25	nn
+25	Butler	NNP	23	dobj
+26	,	,	25	punct
+27	64	CD	25	appos
+28	,	,	25	punct
+29	who	WP	31	nsubj
+30	is	VBZ	31	aux
+31	retiring	VBG	25	rcmod
+32	.	.	19	punct
+
+1	Mr.	NNP	2	nn
+2	Butler	NNP	4	nsubj
+3	will	MD	4	aux
+4	remain	VB	0	root
+5	on	IN	4	prep
+6	the	DT	7	det
+7	board	NN	5	pobj
+8	as	IN	4	prep
+9	a	DT	11	det
+10	nonexecutive	JJ	11	amod
+11	director	NN	8	pobj
+12	.	.	4	punct
+
+

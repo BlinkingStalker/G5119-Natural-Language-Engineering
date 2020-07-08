@@ -1,0 +1,30 @@
+1	Roland	NNP	3	nn
+2	J.	NNP	3	nn
+3	Hawkins	NNP	12	nsubjpass
+4	,	,	3	punct
+5	chairman	NN	3	appos
+6	of	IN	5	prep
+7	Jet	NNP	8	nn
+8	Vacations	NNPS	9	nn
+9	Inc.	NNP	6	pobj
+10	,	,	3	punct
+11	was	VBD	12	auxpass
+12	elected	VBN	0	root
+13	to	TO	12	prep
+14	the	DT	15	det
+15	board	NN	13	pobj
+16	of	IN	15	prep
+17	this	DT	19	det
+18	cruise	NN	19	nn
+19	line	NN	16	pobj
+20	.	.	12	punct
+
+1	The	DT	2	det
+2	board	NN	3	nsubj
+3	expands	VBZ	0	root
+4	to	TO	3	prep
+5	seven	CD	6	num
+6	members	NNS	4	pobj
+7	.	.	3	punct
+
+

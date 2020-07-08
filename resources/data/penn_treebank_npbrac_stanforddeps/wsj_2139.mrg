@@ -1,0 +1,36 @@
+1	THE	DT	8	det
+2	R.H.	NNP	3	nn
+3	MACY	NNP	8	nn
+4	&	CC	3	cc
+5	CO	NNP	3	conj
+6	.	.	5	punct
+7	department-store	NN	8	nn
+8	chain	NN	9	nsubj
+9	is	VBZ	0	root
+10	n't	RB	9	neg
+11	for	IN	9	prep
+12	sale	NN	11	pobj
+13	.	.	9	punct
+
+1	In	IN	9	prep
+2	yesterday	NN	4	poss
+3	's	POS	2	possessive
+4	edition	NN	1	pobj
+5	,	,	9	punct
+6	it	PRP	9	nsubjpass
+7	was	VBD	9	auxpass
+8	incorrectly	RB	9	advmod
+9	included	VBN	0	root
+10	with	IN	9	prep
+11	a	DT	12	det
+12	list	NN	10	pobj
+13	of	IN	12	prep
+14	New	NNP	15	nn
+15	York	NNP	16	nn
+16	chains	NNS	13	pobj
+17	up	IN	16	prep
+18	for	IN	17	pcomp
+19	sale	NN	18	pobj
+20	.	.	9	punct
+
+

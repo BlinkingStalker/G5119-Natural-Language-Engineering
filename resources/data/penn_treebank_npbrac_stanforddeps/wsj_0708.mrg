@@ -1,0 +1,55 @@
+1	Moscom	NNP	2	nn
+2	Corp.	NNP	3	nsubj
+3	said	VBD	0	root
+4	its	PRP$	5	poss
+5	board	NN	6	nsubj
+6	approved	VBD	3	ccomp
+7	the	DT	8	det
+8	repurchase	NN	6	dobj
+9	of	IN	8	prep
+10	as	RB	13	quantmod
+11	many	JJ	13	quantmod
+12	as	IN	13	quantmod
+13	300,000	CD	15	num
+14	common	JJ	15	amod
+15	shares	NNS	9	pobj
+16	when	WRB	20	advmod
+17	market	NN	18	nn
+18	conditions	NNS	20	nsubj
+19	are	VBP	20	cop
+20	suitable	JJ	6	advcl
+21	.	.	3	punct
+
+1	The	DT	2	det
+2	maker	NN	7	nsubj
+3	of	IN	2	prep
+4	telecommunications	NN	6	nn
+5	management	NN	6	nn
+6	systems	NNS	3	pobj
+7	had	VBD	0	root
+8	6,420,268	CD	9	num
+9	shares	NNS	7	dobj
+10	outstanding	JJ	9	amod
+11	as	IN	7	prep
+12	of	IN	11	pcomp
+13	Sept.	NNP	12	pobj
+14	30	CD	13	num
+15	.	.	7	punct
+
+1	In	IN	7	prep
+2	over-the-counter	JJ	3	amod
+3	trading	NN	1	pobj
+4	yesterday	NN	7	tmod
+5	,	,	7	punct
+6	Moscom	NNP	7	nsubj
+7	closed	VBD	0	root
+8	at	IN	7	prep
+9	$	$	8	pobj
+10	4.375	CD	9	num
+11	,	,	7	punct
+12	up	RB	7	advmod
+13	37.5	CD	14	num
+14	cents	NNS	12	pobj
+15	.	.	7	punct
+
+

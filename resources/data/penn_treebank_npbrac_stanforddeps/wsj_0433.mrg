@@ -1,0 +1,50 @@
+1	Your	PRP$	5	poss
+2	Oct.	NNP	5	nn
+3	4	CD	2	num
+4	front	JJ	5	amod
+5	page	NN	6	nsubj
+6	noted	VBD	0	root
+7	that	IN	10	complm
+8	British	JJ	9	amod
+9	lawyers	NNS	10	nsubj
+10	have	VBP	6	ccomp
+11	to	TO	12	aux
+12	wear	VB	10	xcomp
+13	wigs	NNS	12	dobj
+14	in	IN	12	prep
+15	court	NN	14	pobj
+16	and	CC	10	cc
+17	that	IN	21	complm
+18	these	DT	19	det
+19	wigs	NNS	21	nsubjpass
+20	are	VBP	21	auxpass
+21	made	VBN	10	conj
+22	from	IN	21	prep
+23	horses	NNS	25	poss
+24	'	POS	23	possessive
+25	tails	NNS	22	pobj
+26	.	.	6	punct
+
+1	Do	VBP	3	aux
+2	you	PRP	3	nsubj
+3	think	VB	0	root
+4	the	DT	5	det
+5	British	NNS	6	nsubj
+6	know	VBP	3	ccomp
+7	something	NN	6	dobj
+8	that	IN	10	dobj
+9	we	PRP	10	nsubj
+10	do	VBP	7	rcmod
+11	n't	RB	10	neg
+12	?	.	3	punct
+
+1	Yale	NNP	3	nn
+2	Jay	NNP	3	nn
+3	Lubkin	NNP	0	root
+
+1	Owings	NNP	3	dep
+2	,	,	3	punct
+3	Md	NNP	0	root
+4	.	.	3	punct
+
+

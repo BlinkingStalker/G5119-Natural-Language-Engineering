@@ -1,0 +1,48 @@
+1	Mark	NNP	3	nn
+2	Q.	NNP	3	nn
+3	Huggins	NNP	5	nsubjpass
+4	was	VBD	5	auxpass
+5	named	VBN	0	root
+6	executive	NN	8	nn
+7	vice	NN	8	nn
+8	president	NN	5	xcomp
+9	and	CC	8	cc
+10	chief	JJ	12	amod
+11	financial	JJ	12	amod
+12	officer	NN	8	conj
+13	.	.	5	punct
+
+1	Mr.	NNP	2	nn
+2	Huggins	NNP	10	nsubj
+3	,	,	2	punct
+4	39	CD	5	num
+5	years	NNS	6	npadvmod
+6	old	JJ	2	amod
+7	,	,	2	punct
+8	formerly	RB	10	advmod
+9	was	VBD	10	cop
+10	controller	NN	0	root
+11	and	CC	10	cc
+12	chief	JJ	14	amod
+13	accounting	NN	14	nn
+14	officer	NN	10	conj
+15	at	IN	10	prep
+16	Harte-Hanks	NNP	17	nn
+17	Communications	NNPS	18	nn
+18	Inc	NNP	15	pobj
+19	.	.	10	punct
+
+1	Management	NNP	2	nn
+2	Co.	NNP	3	nsubj
+3	manages	VBZ	0	root
+4	entertainers	NNS	3	dobj
+5	and	CC	3	cc
+6	produces	VBZ	3	conj
+7	,	,	6	punct
+8	markets	VBZ	6	conj
+9	and	CC	6	cc
+10	finances	VBZ	6	conj
+11	entertainment	NN	6	dobj
+12	.	.	3	punct
+
+

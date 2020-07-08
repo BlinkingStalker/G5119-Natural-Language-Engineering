@@ -1,0 +1,39 @@
+1	Fred	NNP	3	nn
+2	D.	NNP	3	nn
+3	Thompson	NNP	19	nsubjpass
+4	,	,	3	punct
+5	a	DT	7	det
+6	47-year-old	JJ	7	amod
+7	attorney	NN	3	appos
+8	in	IN	7	prep
+9	private	JJ	10	amod
+10	practice	NN	8	pobj
+11	in	IN	10	prep
+12	Washington	NNP	11	pobj
+13	and	CC	12	cc
+14	Nashville	NNP	16	nn
+15	,	,	16	punct
+16	Tenn.	NNP	12	conj
+17	,	,	16	punct
+18	was	VBD	19	auxpass
+19	elected	VBN	0	root
+20	to	TO	19	prep
+21	the	DT	22	det
+22	board	NN	20	pobj
+23	of	IN	22	prep
+24	this	DT	28	det
+25	engineering	NN	28	nn
+26	and	CC	25	cc
+27	construction	NN	25	conj
+28	company	NN	23	pobj
+29	.	.	19	punct
+
+1	The	DT	2	det
+2	board	NN	3	nsubj
+3	increased	VBD	0	root
+4	to	TO	3	prep
+5	11	CD	6	num
+6	seats	NNS	4	pobj
+7	.	.	3	punct
+
+

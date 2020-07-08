@@ -1,0 +1,36 @@
+1	Financial	JJ	2	amod
+2	printer	NN	3	dep
+3	Bowne	NNP	6	nsubj
+4	&	CC	3	cc
+5	Co.	NNP	3	conj
+6	said	VBD	0	root
+7	it	PRP	8	nsubj
+8	formed	VBD	6	ccomp
+9	a	DT	12	det
+10	business	NN	12	nn
+11	translation	NN	12	nn
+12	service	NN	8	dobj
+13	,	,	12	punct
+14	which	WDT	16	nsubj
+15	will	MD	16	aux
+16	provide	VB	12	rcmod
+17	legal	JJ	22	amod
+18	,	,	17	punct
+19	financial	JJ	17	dep
+20	and	CC	17	cc
+21	other	JJ	17	conj
+22	services	NNS	16	dobj
+23	in	IN	16	prep
+24	most	JJS	26	amod
+25	major	JJ	26	amod
+26	languages	NNS	23	pobj
+27	,	,	26	punct
+28	including	VBG	26	prep
+29	Japanese	NNP	28	pobj
+30	,	,	29	punct
+31	Chinese	NNP	29	conj
+32	and	CC	29	cc
+33	Russian	NNP	29	conj
+34	.	.	6	punct
+
+

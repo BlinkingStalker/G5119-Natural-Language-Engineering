@@ -1,0 +1,37 @@
+1	Michael	NNP	3	nn
+2	F.	NNP	3	nn
+3	Klatman	NNP	16	nsubjpass
+4	,	,	3	punct
+5	director	NN	3	appos
+6	of	IN	5	prep
+7	corporate	JJ	9	amod
+8	public	JJ	9	amod
+9	relations	NNS	6	pobj
+10	at	IN	9	prep
+11	Data	NNP	12	nn
+12	General	NNP	13	nn
+13	Corp.	NNP	10	pobj
+14	,	,	3	punct
+15	was	VBD	16	auxpass
+16	named	VBN	0	root
+17	to	TO	16	prep
+18	the	DT	20	det
+19	new	JJ	20	amod
+20	position	NN	17	pobj
+21	of	IN	20	prep
+22	vice	NN	23	nn
+23	president	NN	21	pobj
+24	,	,	23	punct
+25	corporate	JJ	26	amod
+26	communications	NNS	23	appos
+27	,	,	23	punct
+28	of	IN	23	prep
+29	this	DT	30	det
+30	maker	NN	28	pobj
+31	of	IN	30	prep
+32	data	NNS	33	nn
+33	storage	NN	34	nn
+34	equipment	NN	31	pobj
+35	.	.	16	punct
+
+

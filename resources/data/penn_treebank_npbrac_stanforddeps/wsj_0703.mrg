@@ -1,0 +1,47 @@
+1	France	NNP	4	poss
+2	's	POS	1	possessive
+3	unemployment	NN	4	nn
+4	rate	NN	6	nsubj
+5	was	VBD	6	cop
+6	steady	JJ	20	ccomp
+7	at	IN	6	prep
+8	a	DT	12	det
+9	seasonally	RB	10	advmod
+10	adjusted	VBN	12	amod
+11	9.5	CD	12	num
+12	%	NN	7	pobj
+13	in	IN	6	prep
+14	September	NNP	13	pobj
+15	,	,	20	punct
+16	the	DT	19	det
+17	Social	NNP	18	nn
+18	Affairs	NNPS	19	nn
+19	Ministry	NNP	20	nsubj
+20	said	VBD	0	root
+21	.	.	20	punct
+
+1	In	IN	8	prep
+2	September	NNP	1	pobj
+3	,	,	8	punct
+4	the	DT	5	det
+5	number	NN	8	nsubj
+6	of	IN	5	prep
+7	jobless	JJ	6	pobj
+8	rose	VBD	0	root
+9	0.1	CD	10	num
+10	%	NN	8	dobj
+11	from	IN	8	prep
+12	the	DT	14	det
+13	previous	JJ	14	amod
+14	month	NN	11	pobj
+15	to	TO	8	prep
+16	2.5	CD	17	num
+17	million	CD	15	pobj
+18	on	IN	8	prep
+19	a	DT	22	det
+20	seasonally	RB	21	advmod
+21	adjusted	VBN	22	amod
+22	basis	NN	18	pobj
+23	.	.	8	punct
+
+

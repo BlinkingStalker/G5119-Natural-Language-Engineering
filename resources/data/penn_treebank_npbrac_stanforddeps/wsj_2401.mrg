@@ -1,0 +1,69 @@
+1	Two-Way	NNP	2	nn
+2	Street	NNP	0	root
+
+1	If	IN	7	mark
+2	the	DT	5	det
+3	sixty-day	JJ	5	amod
+4	plant-closing	JJ	5	amod
+5	law	NN	7	nsubj
+6	's	VBZ	7	cop
+7	fair	JJ	14	advcl
+8	,	,	14	punct
+9	Why	WRB	14	advmod
+10	should	MD	14	aux
+11	we	PRP	14	nsubj
+12	not	RB	14	neg
+13	then	RB	14	advmod
+14	amend	VB	0	root
+15	the	DT	16	det
+16	writ	NN	14	dobj
+17	To	TO	18	aux
+18	require	VB	14	xcomp
+19	that	IN	22	complm
+20	all	DT	21	det
+21	employees	NNS	22	nsubj
+22	give	VBP	18	ccomp
+23	Similar	JJ	24	amod
+24	notice	NN	22	dobj
+25	before	IN	27	mark
+26	they	PRP	27	nsubj
+27	quit	VBP	22	advcl
+28	?	.	14	punct
+
+1	--	:	4	punct
+2	Rollin	NNP	4	nn
+3	S.	NNP	4	nn
+4	Trexler	NNP	0	root
+5	.	.	4	punct
+
+1	Candid	NNP	2	nn
+2	Comment	NNP	0	root
+
+1	When	WRB	5	advmod
+2	research	NN	3	nn
+3	projects	NNS	5	nsubjpass
+4	are	VBP	5	auxpass
+5	curtailed	VBN	15	advcl
+6	due	JJ	7	mwe
+7	to	TO	5	prep
+8	government	NN	9	nn
+9	funding	NN	10	nn
+10	cuts	NNS	7	pobj
+11	,	,	15	punct
+12	are	VBP	15	auxpass
+13	we	PRP	15	nsubjpass
+14	``	``	15	punct
+15	caught	VBN	0	root
+16	with	IN	18	mark
+17	our	PRP$	18	poss
+18	grants	NNS	15	advcl
+19	down	IN	18	advmod
+20	''	''	15	punct
+21	?	.	15	punct
+
+1	--	:	3	punct
+2	C.E.	NNP	3	nn
+3	Friedman	NNP	0	root
+4	.	.	3	punct
+
+

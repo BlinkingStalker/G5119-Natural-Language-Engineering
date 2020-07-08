@@ -1,0 +1,46 @@
+1	Hale	NNP	2	nn
+2	Milgrim	NNP	19	nsubjpass
+3	,	,	2	punct
+4	41	CD	5	num
+5	years	NNS	6	npadvmod
+6	old	JJ	2	amod
+7	,	,	2	punct
+8	senior	JJ	10	amod
+9	vice	NN	10	nn
+10	president	NN	2	appos
+11	,	,	10	punct
+12	marketing	NN	10	appos
+13	at	IN	10	prep
+14	Elecktra	NNP	15	nn
+15	Entertainment	NNP	16	nn
+16	Inc.	NNP	13	pobj
+17	,	,	2	punct
+18	was	VBD	19	auxpass
+19	named	VBN	0	root
+20	president	NN	19	xcomp
+21	of	IN	20	prep
+22	Capitol	NNP	23	nn
+23	Records	NNPS	24	nn
+24	Inc.	NNP	21	pobj
+25	,	,	24	punct
+26	a	DT	27	det
+27	unit	NN	24	appos
+28	of	IN	27	prep
+29	this	DT	31	det
+30	entertainment	NN	31	nn
+31	concern	NN	28	pobj
+32	.	.	19	punct
+
+1	Mr.	NNP	2	nn
+2	Milgrim	NNP	3	nsubj
+3	succeeds	VBZ	0	root
+4	David	NNP	5	nn
+5	Berman	NNP	3	dobj
+6	,	,	5	punct
+7	who	WP	8	nsubj
+8	resigned	VBD	5	rcmod
+9	last	JJ	10	amod
+10	month	NN	8	tmod
+11	.	.	3	punct
+
+

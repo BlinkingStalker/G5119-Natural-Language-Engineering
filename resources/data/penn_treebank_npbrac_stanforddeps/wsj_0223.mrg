@@ -1,0 +1,57 @@
+1	A	DT	2	det
+2	seat	NN	9	nsubjpass
+3	on	IN	2	prep
+4	the	DT	7	det
+5	Chicago	NNP	7	nn
+6	Mercantile	NNP	7	nn
+7	Exchange	NNP	3	pobj
+8	was	VBD	9	auxpass
+9	sold	VBN	0	root
+10	for	IN	9	prep
+11	$	$	10	pobj
+12	410,000	CD	11	num
+13	,	,	11	punct
+14	down	RB	11	advmod
+15	$	$	14	pobj
+16	6,000	CD	15	num
+17	from	IN	14	prep
+18	the	DT	20	det
+19	previous	JJ	20	amod
+20	sale	NN	17	pobj
+21	Oct	NNP	20	tmod
+22	.	.	9	punct
+
+1	Seats	NNS	4	nsubjpass
+2	currently	RB	4	advmod
+3	are	VBP	4	auxpass
+4	quoted	VBN	0	root
+5	at	IN	4	prep
+6	$	$	5	pobj
+7	400,000	CD	6	num
+8	bid	NN	6	dep
+9	,	,	6	punct
+10	$	$	6	appos
+11	425,000	CD	10	num
+12	asked	VBN	10	partmod
+13	.	.	4	punct
+
+1	The	DT	3	det
+2	record	NN	3	nn
+3	price	NN	15	nsubjpass
+4	for	IN	3	prep
+5	a	DT	7	det
+6	full	JJ	7	amod
+7	membership	NN	4	pobj
+8	on	IN	7	prep
+9	the	DT	10	det
+10	exchange	NN	8	pobj
+11	is	VBZ	15	auxpass
+12	$	$	15	attr
+13	550,000	CD	12	num
+14	,	,	15	punct
+15	set	VBN	0	root
+16	March	NNP	15	tmod
+17	9	CD	16	num
+18	.	.	15	punct
+
+

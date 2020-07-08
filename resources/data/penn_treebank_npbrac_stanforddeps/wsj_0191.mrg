@@ -1,0 +1,27 @@
+1	First	NNP	2	nn
+2	Chicago	NNP	3	nn
+3	Corp.	NNP	4	nsubj
+4	said	VBD	0	root
+5	it	PRP	6	nsubj
+6	completed	VBD	4	ccomp
+7	its	PRP$	12	poss
+8	$	$	12	num
+9	55.1	CD	8	number
+10	million	CD	8	number
+11	cash-and-stock	JJ	12	amod
+12	acquisition	NN	6	dobj
+13	of	IN	12	prep
+14	closely	RB	15	advmod
+15	held	VBN	18	amod
+16	Ravenswood	NNP	17	nn
+17	Financial	NNP	18	nn
+18	Corp.	NNP	13	pobj
+19	,	,	18	punct
+20	another	DT	24	det
+21	Chicago	NNP	24	nn
+22	bank	NN	24	nn
+23	holding	VBG	24	amod
+24	company	NN	18	appos
+25	.	.	4	punct
+
+
