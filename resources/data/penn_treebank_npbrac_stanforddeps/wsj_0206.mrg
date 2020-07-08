@@ -1,0 +1,31 @@
+1	W.	NNP	3	nn
+2	Ed	NNP	3	nn
+3	Tyler	NNP	19	nsubjpass
+4	,	,	3	punct
+5	37	CD	6	num
+6	years	NNS	7	npadvmod
+7	old	JJ	3	amod
+8	,	,	3	punct
+9	a	DT	12	det
+10	senior	JJ	12	amod
+11	vice	NN	12	nn
+12	president	NN	3	appos
+13	at	IN	12	prep
+14	this	DT	16	det
+15	printing	VBG	16	amod
+16	concern	NN	13	pobj
+17	,	,	3	punct
+18	was	VBD	19	auxpass
+19	elected	VBN	0	root
+20	president	NN	19	xcomp
+21	of	IN	20	prep
+22	its	PRP$	24	poss
+23	technology	NN	24	nn
+24	group	NN	21	pobj
+25	,	,	20	punct
+26	a	DT	28	det
+27	new	JJ	28	amod
+28	position	NN	20	appos
+29	.	.	19	punct
+
+

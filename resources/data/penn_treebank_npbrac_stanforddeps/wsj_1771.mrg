@@ -1,0 +1,50 @@
+1	@	SYM	0	erased
+
+1	Money	NNP	2	nn
+2	Market	NNP	3	nn
+3	Deposits	NNS	0	root
+4	-	:	3	punct
+5	a	SYM	3	dep
+6	6.23	CD	7	num
+7	%	NN	3	dep
+
+1	a	SYM	0	root
+2	-	:	1	punct
+3	Average	JJ	4	amod
+4	rate	NN	1	dep
+5	paid	VBN	4	partmod
+6	yesterday	NN	5	tmod
+7	by	IN	5	prep
+8	100	CD	10	num
+9	large	JJ	10	amod
+10	banks	NNS	7	pobj
+11	and	CC	10	cc
+12	thrifts	NNS	10	conj
+13	in	IN	10	prep
+14	the	DT	18	det
+15	10	CD	18	num
+16	largest	JJS	18	amod
+17	metropolitan	JJ	18	amod
+18	areas	NNS	13	pobj
+19	as	IN	20	mark
+20	compiled	VBN	5	advcl
+21	by	IN	20	prep
+22	Bank	NNP	23	nn
+23	Rate	NNP	24	nn
+24	Monitor	NNP	21	pobj
+25	.	.	1	punct
+
+1	b	SYM	0	root
+2	-	:	1	punct
+3	Current	JJ	5	amod
+4	annual	JJ	5	amod
+5	yield	NN	1	dep
+6	.	.	1	punct
+
+1	Guaranteed	VBN	2	amod
+2	minimum	NN	0	root
+3	6	CD	4	num
+4	%	NN	2	dep
+5	.	.	2	punct
+
+

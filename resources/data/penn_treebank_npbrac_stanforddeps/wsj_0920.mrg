@@ -1,0 +1,47 @@
+1	The	DT	3	det
+2	Canadian	JJ	3	amod
+3	government	NN	4	nsubj
+4	plans	VBZ	31	ccomp
+5	to	TO	6	aux
+6	auction	VB	4	xcomp
+7	on	IN	6	prep
+8	Tuesday	NNP	7	pobj
+9	750	CD	10	number
+10	million	CD	12	num
+11	Canadian	JJ	12	amod
+12	dollars	NNS	6	dobj
+13	-LRB-	-LRB-	14	punct
+14	US$	$	12	dep
+15	639.9	CD	14	number
+16	million	CD	14	number
+17	-RRB-	-RRB-	14	punct
+18	of	IN	12	prep
+19	9.25	CD	20	num
+20	%	NN	21	nn
+21	bonds	NNS	18	pobj
+22	due	JJ	21	amod
+23	Dec.	NNP	22	tmod
+24	1	CD	23	num
+25	,	,	23	punct
+26	1999	CD	23	num
+27	,	,	31	punct
+28	the	DT	30	det
+29	Finance	NNP	30	nn
+30	Department	NNP	31	nsubj
+31	said	VBD	0	root
+32	.	.	31	punct
+
+1	Proceeds	NNS	7	nsubjpass
+2	of	IN	1	prep
+3	the	DT	4	det
+4	issue	NN	2	pobj
+5	will	MD	7	aux
+6	be	VB	7	auxpass
+7	used	VBN	0	root
+8	for	IN	7	prep
+9	general	JJ	11	amod
+10	government	NN	11	nn
+11	purposes	NNS	8	pobj
+12	.	.	7	punct
+
+

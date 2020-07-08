@@ -1,0 +1,34 @@
+1	Consumer	NN	2	nn
+2	spending	NN	5	nsubj
+3	in	IN	2	prep
+4	Britain	NNP	3	pobj
+5	rose	VBD	30	ccomp
+6	0.1	CD	7	num
+7	%	NN	5	dobj
+8	in	IN	5	prep
+9	the	DT	11	det
+10	third	JJ	11	amod
+11	quarter	NN	8	pobj
+12	from	IN	5	prep
+13	the	DT	15	det
+14	second	JJ	15	amod
+15	quarter	NN	12	pobj
+16	and	CC	5	cc
+17	was	VBD	5	conj
+18	up	RB	17	advmod
+19	3.8	CD	20	num
+20	%	NN	18	pobj
+21	from	IN	18	prep
+22	a	DT	23	det
+23	year	NN	24	npadvmod
+24	ago	RB	21	pcomp
+25	,	,	30	punct
+26	the	DT	29	det
+27	Central	NNP	29	nn
+28	Statistical	NNP	29	nn
+29	Office	NNP	30	nsubj
+30	estimated	VBD	0	root
+31	Friday	NNP	30	tmod
+32	.	.	30	punct
+
+

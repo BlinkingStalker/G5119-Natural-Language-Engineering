@@ -1,0 +1,31 @@
+1	Bruno	NNP	2	nn
+2	DeGol	NNP	15	nsubjpass
+3	,	,	2	punct
+4	chairman	NN	2	appos
+5	of	IN	4	prep
+6	DeGol	NNP	7	nn
+7	Brothers	NNPS	8	nn
+8	Lumber	NNP	5	pobj
+9	,	,	8	punct
+10	Gallitzin	NNP	8	appos
+11	,	,	10	punct
+12	Pa.	NNP	10	appos
+13	,	,	2	punct
+14	was	VBD	15	auxpass
+15	named	VBN	0	root
+16	a	DT	17	det
+17	director	NN	15	xcomp
+18	of	IN	17	prep
+19	this	DT	21	det
+20	bank-holding	JJ	21	amod
+21	company	NN	18	pobj
+22	,	,	15	punct
+23	expanding	VBG	15	xcomp
+24	the	DT	25	det
+25	board	NN	23	dobj
+26	to	TO	23	prep
+27	11	CD	28	num
+28	members	NNS	26	pobj
+29	.	.	15	punct
+
+

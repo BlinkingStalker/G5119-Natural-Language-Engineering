@@ -1,0 +1,39 @@
+1	Charles	NNP	4	nn
+2	D	NNP	4	nn
+3	.	.	2	punct
+4	Way	NNP	12	nsubj
+5	,	,	4	punct
+6	president	NN	4	appos
+7	of	IN	6	prep
+8	this	DT	10	det
+9	restaurant	NN	10	nn
+10	operator	NN	7	pobj
+11	,	,	4	punct
+12	assumed	VBD	0	root
+13	the	DT	15	det
+14	additional	JJ	15	amod
+15	post	NN	12	dobj
+16	of	IN	15	prep
+17	chief	NN	19	nn
+18	executive	NN	19	nn
+19	officer	NN	16	pobj
+20	.	.	12	punct
+
+1	He	PRP	2	nsubj
+2	succeeds	VBZ	0	root
+3	Alvin	NNP	5	nn
+4	A.	NNP	5	nn
+5	McCall	NNP	2	dobj
+6	in	IN	2	prep
+7	the	DT	8	det
+8	position	NN	6	pobj
+9	.	.	2	punct
+
+1	Mr.	NNP	2	nn
+2	McCall	NNP	5	nsubj
+3	will	MD	5	aux
+4	remain	VB	5	cop
+5	chairman	NN	0	root
+6	.	.	5	punct
+
+

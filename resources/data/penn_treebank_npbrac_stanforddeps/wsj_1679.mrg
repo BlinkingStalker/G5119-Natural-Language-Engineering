@@ -1,0 +1,51 @@
+1	DILLARD	NNP	3	nn
+2	DEPARTMENT	NNP	3	nn
+3	STORES	NNP	4	nn
+4	Inc.	NNP	5	nsubj
+5	said	VBD	0	root
+6	it	PRP	7	nsubj
+7	offered	VBD	5	ccomp
+8	$	$	7	dobj
+9	50	CD	8	num
+10	million	CD	8	num
+11	of	IN	8	prep
+12	9	CD	13	number
+13	1\/2	CD	14	dep
+14	%	NN	15	dep
+15	debentures	NNS	11	pobj
+16	due	JJ	15	amod
+17	2001	CD	16	tmod
+18	at	IN	15	prep
+19	par	NN	18	pobj
+20	.	.	5	punct
+
+1	The	DT	8	det
+2	Little	NNP	3	nn
+3	Rock	NNP	8	dep
+4	,	,	3	punct
+5	Ark.	NNP	3	dep
+6	,	,	3	punct
+7	department-store	NN	8	nn
+8	retailer	NN	9	nsubj
+9	said	VBD	0	root
+10	proceeds	NNS	13	nsubjpass
+11	will	MD	13	aux
+12	be	VB	13	auxpass
+13	used	VBN	9	ccomp
+14	to	TO	15	aux
+15	reduce	VB	13	xcomp
+16	short-term	JJ	17	amod
+17	debt	NN	15	dobj
+18	.	.	9	punct
+
+1	Goldman	NNP	8	nsubj
+2	,	,	1	punct
+3	Sachs	NNP	1	conj
+4	&	CC	1	cc
+5	Co.	NNP	1	conj
+6	was	VBD	8	cop
+7	the	DT	8	det
+8	underwriter	NN	0	root
+9	.	.	8	punct
+
+

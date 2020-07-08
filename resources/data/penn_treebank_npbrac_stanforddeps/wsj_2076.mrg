@@ -1,0 +1,73 @@
+1	NEWSPAPERS	NNPS	0	root
+2	:	:	1	punct
+
+1	Media	NNP	2	nn
+2	General	NNP	3	nn
+3	Inc.	NNP	4	nsubj
+4	intends	VBZ	0	root
+5	to	TO	6	aux
+6	sell	VB	4	xcomp
+7	two	CD	6	dobj
+8	of	IN	7	prep
+9	its	PRP$	14	poss
+10	West	NNP	11	nn
+11	Coast	NNP	14	nn
+12	weekly	JJ	13	amod
+13	newspaper	NN	14	nn
+14	chains	NNS	8	pobj
+15	,	,	19	punct
+16	Golden	NNP	17	nn
+17	West	NNP	18	nn
+18	Publishing	NNP	19	nn
+19	Inc.	NNP	7	dep
+20	and	CC	19	cc
+21	Highlander	NNP	22	nn
+22	Publications	NNPS	19	conj
+23	,	,	19	punct
+24	which	WDT	26	nsubj
+25	together	RB	26	advmod
+26	comprise	VBP	7	rcmod
+27	31	CD	28	num
+28	papers	NNS	26	dobj
+29	.	.	4	punct
+
+1	Media	NNP	2	nn
+2	General	NNP	3	nsubj
+3	said	VBD	0	root
+4	it	PRP	6	nsubj
+5	has	VBZ	6	aux
+6	had	VBN	3	ccomp
+7	inquiries	NNS	6	dobj
+8	from	IN	7	prep
+9	potential	JJ	10	amod
+10	buyers	NNS	8	pobj
+11	and	CC	6	cc
+12	expects	VBZ	6	conj
+13	to	TO	14	aux
+14	complete	VB	12	xcomp
+15	a	DT	16	det
+16	sale	NN	14	dobj
+17	in	IN	14	prep
+18	1989	CD	17	pobj
+19	.	.	3	punct
+
+1	It	PRP	4	nsubj
+2	would	MD	4	aux
+3	n't	RB	4	neg
+4	discuss	VB	0	root
+5	a	DT	6	det
+6	price	NN	4	dobj
+7	.	.	4	punct
+
+1	Lee	NNP	2	nn
+2	Dirks	NNP	5	nsubj
+3	&	CC	2	cc
+4	Associates	NNPS	2	conj
+5	is	VBZ	0	root
+6	to	TO	7	aux
+7	sell	VB	5	xcomp
+8	the	DT	9	det
+9	chains	NNS	7	dobj
+10	.	.	5	punct
+
+

@@ -1,0 +1,55 @@
+1	Stephen	NNP	3	nn
+2	N.	NNP	3	nn
+3	Wertheimer	NNP	5	nsubjpass
+4	was	VBD	5	auxpass
+5	named	VBN	0	root
+6	managing	VBG	7	amod
+7	director	NN	5	xcomp
+8	and	CC	7	cc
+9	group	NN	10	nn
+10	head	NN	7	conj
+11	of	IN	7	prep
+12	investment	NN	13	nn
+13	banking	NN	11	pobj
+14	in	IN	13	prep
+15	Asia	NNP	14	pobj
+16	,	,	13	punct
+17	based	VBN	13	partmod
+18	in	IN	17	prep
+19	Tokyo	NNP	18	pobj
+20	.	.	5	punct
+
+1	Mr.	NNP	2	nn
+2	Wertheimer	NNP	13	nsubj
+3	,	,	2	punct
+4	38	CD	5	num
+5	years	NNS	6	npadvmod
+6	old	JJ	2	amod
+7	,	,	2	punct
+8	had	VBD	13	aux
+9	been	VBN	13	cop
+10	a	DT	13	det
+11	first	JJ	13	amod
+12	vice	NN	13	nn
+13	president	NN	0	root
+14	in	IN	13	prep
+15	the	DT	17	det
+16	industrial	JJ	17	amod
+17	group	NN	14	pobj
+18	in	IN	17	prep
+19	investment	NN	20	nn
+20	banking	NN	18	pobj
+21	.	.	13	punct
+
+1	He	PRP	2	nsubj
+2	succeeds	VBZ	0	root
+3	Everett	NNP	4	nn
+4	Meyers	NNP	2	dobj
+5	,	,	4	punct
+6	who	WP	7	nsubj
+7	resigned	VBD	4	rcmod
+8	in	IN	7	prep
+9	May	NNP	8	pobj
+10	.	.	2	punct
+
+

@@ -1,0 +1,40 @@
+1	THE	DT	5	det
+2	FINANCIAL	NNP	4	nn
+3	ACCOUNTING	NNP	4	nn
+4	STANDARDS	NNPS	5	nn
+5	BOARD'S	NNP	7	nn
+6	coming	JJ	7	amod
+7	rule	NN	15	nsubj
+8	on	IN	7	prep
+9	disclosure	NN	8	pobj
+10	involving	VBG	9	partmod
+11	financial	JJ	12	amod
+12	instruments	NNS	10	dobj
+13	will	MD	15	aux
+14	be	VB	15	cop
+15	effective	JJ	0	root
+16	for	IN	15	prep
+17	financial	JJ	18	amod
+18	statements	NNS	16	pobj
+19	with	IN	18	prep
+20	fiscal	JJ	21	amod
+21	years	NNS	19	pobj
+22	ending	VBG	21	partmod
+23	after	IN	22	prep
+24	June	NNP	23	pobj
+25	15	CD	24	num
+26	,	,	24	punct
+27	1990	CD	24	num
+28	.	.	15	punct
+
+1	The	DT	2	det
+2	date	NN	4	nsubjpass
+3	was	VBD	4	auxpass
+4	misstated	VBN	0	root
+5	in	IN	4	prep
+6	Friday	NNP	8	poss
+7	's	POS	6	possessive
+8	edition	NN	5	pobj
+9	.	.	4	punct
+
+

@@ -1,0 +1,27 @@
+1	EMPIRE	NNP	2	nn
+2	PENCIL	NNP	8	nsubj
+3	,	,	2	punct
+4	later	RB	5	advmod
+5	called	VBN	2	partmod
+6	Empire-Berol	NNP	5	dep
+7	,	,	2	punct
+8	developed	VBD	0	root
+9	the	DT	11	det
+10	plastic	JJ	11	amod
+11	pencil	NN	8	dobj
+12	in	IN	8	prep
+13	1973	CD	12	pobj
+14	.	.	8	punct
+
+1	Yesterday	NN	4	poss
+2	's	POS	1	possessive
+3	Centennial	NNP	4	nn
+4	Journal	NNP	5	nsubj
+5	misstated	VBD	0	root
+6	the	DT	7	det
+7	company	NN	9	poss
+8	's	POS	7	possessive
+9	name	NN	5	dobj
+10	.	.	5	punct
+
+

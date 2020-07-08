@@ -1,0 +1,28 @@
+1	William	NNP	3	nn
+2	C.	NNP	3	nn
+3	Ballard	NNP	4	nn
+4	Jr.	NNP	11	nsubjpass
+5	,	,	4	punct
+6	48	CD	7	num
+7	years	NNS	8	npadvmod
+8	old	JJ	4	amod
+9	,	,	4	punct
+10	was	VBD	11	auxpass
+11	elected	VBN	0	root
+12	a	DT	13	det
+13	director	NN	11	xcomp
+14	of	IN	13	prep
+15	this	DT	18	det
+16	distilled	VBN	17	amod
+17	beverages	NNS	18	nn
+18	concern	NN	14	pobj
+19	,	,	11	punct
+20	expanding	VBG	11	xcomp
+21	the	DT	22	det
+22	board	NN	20	dobj
+23	to	TO	20	prep
+24	11	CD	25	num
+25	members	NNS	23	pobj
+26	.	.	11	punct
+
+

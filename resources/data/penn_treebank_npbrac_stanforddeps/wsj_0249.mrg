@@ -1,0 +1,33 @@
+1	MCI	NNP	2	nn
+2	Communications	NNPS	3	nn
+3	Corp.	NNP	4	nsubj
+4	said	VBD	0	root
+5	it	PRP	6	nsubj
+6	received	VBD	4	ccomp
+7	a	DT	9	det
+8	three-year	JJ	9	amod
+9	contract	NN	6	dobj
+10	valued	VBN	9	partmod
+11	at	IN	10	prep
+12	more	JJR	14	quantmod
+13	than	IN	14	quantmod
+14	$	$	11	pobj
+15	15	CD	14	number
+16	million	CD	14	number
+17	to	TO	18	aux
+18	provide	VB	9	infmod
+19	network	NN	25	nn
+20	,	,	19	punct
+21	credit-card	NN	19	conj
+22	and	CC	19	cc
+23	other	JJ	24	amod
+24	telecommunications	NN	19	conj
+25	services	NNS	18	dobj
+26	to	TO	18	prep
+27	Drexel	NNP	29	nn
+28	Burnham	NNP	29	nn
+29	Lambert	NNP	30	nn
+30	Inc	NNP	26	pobj
+31	.	.	4	punct
+
+

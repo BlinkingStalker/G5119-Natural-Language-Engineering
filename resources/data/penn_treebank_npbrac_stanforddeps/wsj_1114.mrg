@@ -1,0 +1,32 @@
+1	Richard	NNP	3	nn
+2	W.	NNP	3	nn
+3	Lock	NNP	15	nsubjpass
+4	,	,	3	punct
+5	retired	JJ	7	amod
+6	vice	NN	7	nn
+7	president	NN	3	appos
+8	and	CC	7	cc
+9	treasurer	NN	7	conj
+10	of	IN	7	prep
+11	Owens-Illinois	NNP	12	nn
+12	Inc.	NNP	10	pobj
+13	,	,	3	punct
+14	was	VBD	15	auxpass
+15	named	VBN	0	root
+16	a	DT	17	det
+17	director	NN	15	xcomp
+18	of	IN	17	prep
+19	this	DT	22	det
+20	transportation	NN	21	nn
+21	industry	NN	22	nn
+22	supplier	NN	18	pobj
+23	,	,	15	punct
+24	increasing	VBG	15	xcomp
+25	its	PRP$	26	poss
+26	board	NN	24	dobj
+27	to	TO	24	prep
+28	six	CD	29	num
+29	members	NNS	27	pobj
+30	.	.	15	punct
+
+

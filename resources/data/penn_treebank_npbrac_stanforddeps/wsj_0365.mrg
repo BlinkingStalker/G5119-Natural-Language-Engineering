@@ -1,0 +1,37 @@
+1	Bonnie	NNP	3	nn
+2	J.	NNP	3	nn
+3	Stedt	NNP	5	nsubjpass
+4	was	VBD	5	auxpass
+5	named	VBN	0	root
+6	an	DT	9	det
+7	executive	JJ	9	amod
+8	vice	NN	9	nn
+9	president	NN	5	xcomp
+10	of	IN	9	prep
+11	the	DT	18	det
+12	American	NNP	13	nn
+13	Express	NNP	16	nn
+14	Travel	NNP	15	nn
+15	Related	NNP	16	nn
+16	Services	NNPS	17	nn
+17	Co.	NNP	18	nn
+18	unit	NN	10	pobj
+19	of	IN	18	prep
+20	this	DT	25	det
+21	travel	NN	25	amod
+22	and	CC	21	cc
+23	financial	JJ	21	conj
+24	services	NNS	25	nn
+25	firm	NN	19	pobj
+26	.	.	5	punct
+
+1	She	PRP	2	nsubj
+2	retains	VBZ	0	root
+3	her	PRP$	4	poss
+4	duties	NNS	2	dobj
+5	of	IN	4	prep
+6	human-resources	NNS	7	nn
+7	director	NN	5	pobj
+8	.	.	2	punct
+
+

@@ -1,0 +1,41 @@
+1	Spencer	NNP	3	nn
+2	J.	NNP	3	nn
+3	Volk	NNP	19	nsubjpass
+4	,	,	3	punct
+5	president	NN	3	appos
+6	and	CC	5	cc
+7	chief	NN	9	nn
+8	operating	NN	9	nn
+9	officer	NN	5	conj
+10	of	IN	5	prep
+11	this	DT	16	det
+12	consumer	NN	15	amod
+13	and	CC	12	cc
+14	industrial	JJ	12	conj
+15	products	NNS	16	nn
+16	company	NN	10	pobj
+17	,	,	3	punct
+18	was	VBD	19	auxpass
+19	elected	VBN	0	root
+20	a	DT	21	det
+21	director	NN	19	xcomp
+22	.	.	19	punct
+
+1	Mr.	NNP	2	nn
+2	Volk	NNP	8	nsubj
+3	,	,	2	punct
+4	55	CD	5	num
+5	years	NNS	6	dep
+6	old	JJ	2	amod
+7	,	,	2	punct
+8	succeeds	VBZ	0	root
+9	Duncan	NNP	10	nn
+10	Dwight	NNP	8	dobj
+11	,	,	10	punct
+12	who	WP	13	nsubj
+13	retired	VBD	10	rcmod
+14	in	IN	13	prep
+15	September	NNP	14	pobj
+16	.	.	8	punct
+
+

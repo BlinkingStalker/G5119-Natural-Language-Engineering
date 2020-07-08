@@ -1,0 +1,39 @@
+1	Peter	NNP	3	nn
+2	W.	NNP	3	nn
+3	Likins	NNP	15	nsubjpass
+4	,	,	3	punct
+5	president	NN	3	appos
+6	of	IN	5	prep
+7	Lehigh	NNP	8	nn
+8	University	NNP	6	pobj
+9	,	,	8	punct
+10	Bethlehem	NNP	8	appos
+11	,	,	10	punct
+12	Pa.	NNP	10	appos
+13	,	,	3	punct
+14	was	VBD	15	auxpass
+15	elected	VBN	0	root
+16	a	DT	17	det
+17	director	NN	15	xcomp
+18	of	IN	17	prep
+19	this	DT	20	det
+20	maker	NN	18	pobj
+21	of	IN	20	prep
+22	industrial	JJ	24	amod
+23	motion-control	NN	24	nn
+24	parts	NNS	21	pobj
+25	and	CC	24	cc
+26	systems	NNS	24	conj
+27	.	.	15	punct
+
+1	His	PRP$	2	poss
+2	appointment	NN	3	nsubj
+3	expands	VBZ	0	root
+4	the	DT	5	det
+5	board	NN	3	dobj
+6	to	TO	3	prep
+7	13	CD	8	num
+8	members	NNS	6	pobj
+9	.	.	3	punct
+
+

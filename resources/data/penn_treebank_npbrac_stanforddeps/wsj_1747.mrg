@@ -1,0 +1,31 @@
+1	VIACOM	NNP	2	nn
+2	Inc.	NNP	4	poss
+3	's	POS	2	possessive
+4	loss	NN	5	nsubj
+5	narrowed	VBN	0	root
+6	to	TO	5	prep
+7	$	$	6	pobj
+8	21.7	CD	7	number
+9	million	CD	7	number
+10	in	IN	5	prep
+11	the	DT	13	det
+12	third	JJ	13	amod
+13	quarter	NN	10	pobj
+14	from	IN	5	prep
+15	$	$	14	pobj
+16	56.9	CD	15	number
+17	million	CD	15	number
+18	a	DT	19	det
+19	year	NN	20	npadvmod
+20	ago	IN	14	advmod
+21	.	.	5	punct
+
+1	Thursday	NNP	3	poss
+2	's	POS	1	possessive
+3	edition	NN	4	nsubj
+4	misstated	VBD	0	root
+5	the	DT	6	det
+6	narrowing	NN	4	dobj
+7	.	.	4	punct
+
+

@@ -1,0 +1,36 @@
+1	Jeffrey	NNP	3	nn
+2	E.	NNP	3	nn
+3	Levin	NNP	5	nsubjpass
+4	was	VBD	5	auxpass
+5	named	VBN	0	root
+6	vice	NN	7	nn
+7	president	NN	5	xcomp
+8	and	CC	7	cc
+9	chief	JJ	10	amod
+10	economist	NN	7	conj
+11	of	IN	7	prep
+12	this	DT	17	det
+13	commodity	NN	14	nn
+14	futures	NNS	17	nn
+15	and	CC	14	cc
+16	options	NNS	14	conj
+17	exchange	NN	11	pobj
+18	.	.	5	punct
+
+1	He	PRP	5	nsubj
+2	had	VBD	5	aux
+3	been	VBN	5	cop
+4	associate	JJ	5	amod
+5	professor	NN	0	root
+6	in	IN	5	prep
+7	the	DT	8	det
+8	department	NN	6	pobj
+9	of	IN	8	prep
+10	finance	NN	9	pobj
+11	at	IN	5	prep
+12	Seton	NNP	13	nn
+13	Hall	NNP	14	nn
+14	University	NNP	11	pobj
+15	.	.	5	punct
+
+

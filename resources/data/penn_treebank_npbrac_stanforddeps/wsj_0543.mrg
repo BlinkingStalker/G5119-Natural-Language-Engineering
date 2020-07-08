@@ -1,0 +1,34 @@
+1	Chamberlain	NNP	2	nn
+2	Manufacturing	NNP	3	nn
+3	Corp.	NNP	4	nsubj
+4	won	VBD	0	root
+5	a	DT	10	det
+6	$	$	10	num
+7	25.8	CD	6	number
+8	million	CD	6	number
+9	Army	NNP	10	nn
+10	contract	NN	4	dobj
+11	for	IN	10	prep
+12	155mm	CD	14	num
+13	artillery	NN	14	nn
+14	shell	NN	15	nn
+15	casings	NNS	11	pobj
+16	.	.	4	punct
+
+1	Avondale	NNP	2	nn
+2	Industries	NNPS	3	nn
+3	Inc.	NNP	4	nsubj
+4	received	VBD	0	root
+5	a	DT	10	det
+6	$	$	10	num
+7	13.5	CD	6	number
+8	million	CD	6	number
+9	Navy	NNP	10	nn
+10	contract	NN	4	dobj
+11	for	IN	10	prep
+12	ship	NN	14	nn
+13	spare	JJ	14	amod
+14	parts	NNS	11	pobj
+15	.	.	4	punct
+
+

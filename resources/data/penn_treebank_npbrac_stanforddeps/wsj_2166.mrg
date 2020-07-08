@@ -1,0 +1,36 @@
+1	Steven	NNP	3	nn
+2	F.	NNP	3	nn
+3	Kaplan	NNP	5	nsubjpass
+4	was	VBD	5	auxpass
+5	named	VBN	0	root
+6	a	DT	9	det
+7	senior	JJ	9	amod
+8	vice	NN	9	nn
+9	president	NN	5	xcomp
+10	of	IN	9	prep
+11	this	DT	14	det
+12	graphics	NNS	13	nn
+13	equipment	NN	14	nn
+14	company	NN	10	pobj
+15	.	.	5	punct
+
+1	He	PRP	2	nsubj
+2	retains	VBZ	0	root
+3	his	PRP$	5	poss
+4	current	JJ	5	amod
+5	positions	NNS	2	dobj
+6	as	IN	5	prep
+7	chief	JJ	9	amod
+8	strategic	JJ	9	amod
+9	officer	NN	6	pobj
+10	of	IN	9	prep
+11	AM	VBP	12	dep
+12	International	NNP	10	pobj
+13	and	CC	9	cc
+14	president	NN	9	conj
+15	of	IN	14	prep
+16	AM	NNP	17	nn
+17	Ventures	NNPS	15	pobj
+18	.	.	2	punct
+
+

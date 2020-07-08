@@ -1,0 +1,50 @@
+1	American	NNP	2	nn
+2	Medical	NNP	3	nn
+3	International	NNP	4	nn
+4	Inc.	NNP	6	nsubjpass
+5	was	VBD	6	auxpass
+6	dropped	VBN	0	root
+7	from	IN	6	prep
+8	the	DT	13	det
+9	health	NN	10	nn
+10	care	NN	11	nn
+11	providers	NNS	13	nn
+12	industry	NN	13	nn
+13	group	NN	7	pobj
+14	of	IN	13	prep
+15	the	DT	20	det
+16	Dow	NNP	17	nn
+17	Jones	NNP	20	nn
+18	Equity	NNP	19	nn
+19	Market	NNP	20	nn
+20	Index	NNP	14	pobj
+21	.	.	6	punct
+
+1	The	DT	2	det
+2	company	NN	5	nsubjpass
+3	is	VBZ	5	aux
+4	being	VBG	5	auxpass
+5	acquired	VBN	0	root
+6	.	.	5	punct
+
+1	U.S.	NNP	2	nn
+2	Healthcare	NNP	3	nn
+3	Inc.	NNP	5	nsubjpass
+4	was	VBD	5	auxpass
+5	added	VBN	0	root
+6	to	TO	5	prep
+7	the	DT	11	det
+8	health	NN	9	nn
+9	care	NN	10	nn
+10	providers	NNS	11	nn
+11	group	NN	6	pobj
+12	.	.	5	punct
+
+1	Both	DT	2	det
+2	moves	NNS	4	nsubj
+3	are	VBP	4	cop
+4	effective	JJ	0	root
+5	today	NN	4	tmod
+6	.	.	4	punct
+
+

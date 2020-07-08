@@ -1,0 +1,54 @@
+1	F.	NNP	3	nn
+2	Gil	NNP	3	nn
+3	Troutman	NNP	10	nsubjpass
+4	,	,	3	punct
+5	46	CD	6	num
+6	years	NNS	7	dep
+7	old	JJ	3	amod
+8	,	,	3	punct
+9	was	VBD	10	auxpass
+10	named	VBN	0	root
+11	chief	JJ	13	amod
+12	executive	JJ	13	amod
+13	officer	NN	10	xcomp
+14	.	.	10	punct
+
+1	He	PRP	2	nsubj
+2	retains	VBZ	0	root
+3	his	PRP$	4	poss
+4	titles	NNS	2	dobj
+5	of	IN	4	prep
+6	president	NN	5	pobj
+7	and	CC	6	cc
+8	chief	NN	10	nn
+9	operating	NN	10	nn
+10	officer	NN	6	conj
+11	and	CC	2	cc
+12	succeeds	VBZ	2	conj
+13	as	RB	12	prep
+14	chief	JJ	15	amod
+15	executive	NN	13	pobj
+16	Howard	NNP	18	nn
+17	O.	NNP	18	nn
+18	Painter	NNP	19	nn
+19	Jr.	NNP	12	dobj
+20	,	,	19	punct
+21	who	WP	23	nsubj
+22	remains	VBZ	23	cop
+23	chairman	NN	19	rcmod
+24	of	IN	23	prep
+25	the	DT	26	det
+26	board	NN	24	pobj
+27	.	.	2	punct
+
+1	DSP	NNP	2	nsubj
+2	makes	VBZ	0	root
+3	electronic	JJ	4	amod
+4	instrumentation	NN	2	dobj
+5	and	CC	4	cc
+6	data	NN	7	nn
+7	acquisition	NN	8	nn
+8	systems	NNS	4	conj
+9	.	.	2	punct
+
+

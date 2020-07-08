@@ -1,0 +1,35 @@
+1	The	DT	5	det
+2	New	NNP	3	nn
+3	York	NNP	5	nn
+4	Stock	NNP	5	nn
+5	Exchange	NNP	6	nsubj
+6	said	VBD	0	root
+7	a	DT	8	det
+8	seat	NN	10	nsubjpass
+9	was	VBD	10	auxpass
+10	sold	VBN	6	ccomp
+11	for	IN	10	prep
+12	$	$	11	pobj
+13	500,000	CD	12	num
+14	,	,	10	punct
+15	unchanged	JJ	10	dep
+16	from	IN	15	prep
+17	the	DT	18	det
+18	sale	NN	16	pobj
+19	Thursday	NNP	18	tmod
+20	.	.	6	punct
+
+1	Seats	NNS	3	nsubjpass
+2	are	VBP	3	auxpass
+3	quoted	VBN	0	root
+4	at	IN	3	prep
+5	$	$	4	pobj
+6	430,000	CD	5	num
+7	bid	NN	5	dep
+8	and	CC	5	cc
+9	$	$	5	conj
+10	525,000	CD	9	num
+11	asked	VBN	9	partmod
+12	.	.	3	punct
+
+

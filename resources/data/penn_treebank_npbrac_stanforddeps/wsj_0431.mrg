@@ -1,0 +1,51 @@
+1	Edison	NNP	2	nn
+2	Brothers	NNP	3	nn
+3	Stores	NNP	4	nn
+4	Inc.	NNP	5	nsubj
+5	said	VBD	0	root
+6	it	PRP	7	nsubj
+7	agreed	VBD	5	ccomp
+8	to	TO	9	aux
+9	buy	VB	7	xcomp
+10	229	CD	15	num
+11	Foxmoor	NNP	15	nn
+12	women	NNS	14	poss
+13	's	POS	12	possessive
+14	apparel	NN	15	nn
+15	stores	NNS	9	dobj
+16	from	IN	9	prep
+17	Foxmoor	NNP	19	nn
+18	Specialty	NNP	19	nn
+19	Stores	NNP	20	nn
+20	Corp.	NNP	16	pobj
+21	,	,	20	punct
+22	a	DT	23	det
+23	unit	NN	20	appos
+24	of	IN	23	prep
+25	Dylex	NNP	26	nn
+26	Ltd.	NNP	24	pobj
+27	of	IN	26	prep
+28	Toronto	NNP	27	pobj
+29	.	.	5	punct
+
+1	Terms	NNS	4	nsubjpass
+2	were	VBD	4	auxpass
+3	n't	RB	4	neg
+4	disclosed	VBN	0	root
+5	.	.	4	punct
+
+1	Edison	NN	2	nsubj
+2	said	VBD	0	root
+3	the	DT	5	det
+4	acquired	VBN	5	amod
+5	stores	NNS	8	nsubjpass
+6	would	MD	8	aux
+7	be	VB	8	auxpass
+8	integrated	VBN	2	ccomp
+9	into	IN	8	prep
+10	its	PRP$	12	poss
+11	current	JJ	12	amod
+12	operations	NNS	9	pobj
+13	.	.	2	punct
+
+

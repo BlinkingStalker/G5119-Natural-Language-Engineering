@@ -1,0 +1,29 @@
+1	LOTUS	NNP	2	nn
+2	DEVELOPMENT	NNP	3	nn
+3	Corp.	NNP	6	poss
+4	's	POS	3	possessive
+5	net	JJ	6	amod
+6	income	NN	7	nsubj
+7	rose	VBD	0	root
+8	61	CD	9	num
+9	%	NN	7	dobj
+10	in	IN	7	prep
+11	the	DT	13	det
+12	third	JJ	13	amod
+13	quarter	NN	10	pobj
+14	from	IN	7	prep
+15	the	DT	17	det
+16	year-earlier	JJ	17	amod
+17	period	NN	14	pobj
+18	.	.	7	punct
+
+1	Yesterday	NN	3	poss
+2	's	POS	1	possessive
+3	edition	NN	4	nsubj
+4	misstated	VBD	0	root
+5	the	DT	7	det
+6	percentage	NN	7	nn
+7	increase	NN	4	dobj
+8	.	.	4	punct
+
+

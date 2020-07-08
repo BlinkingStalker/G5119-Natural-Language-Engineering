@@ -1,0 +1,36 @@
+1	Due	JJ	21	prep
+2	to	TO	1	prep
+3	an	DT	5	det
+4	editing	NN	5	nn
+5	error	NN	2	pobj
+6	,	,	21	punct
+7	a	DT	8	det
+8	letter	NN	21	nsubj
+9	to	TO	8	prep
+10	the	DT	11	det
+11	editor	NN	9	pobj
+12	in	IN	8	prep
+13	yesterday	NN	15	poss
+14	's	POS	13	possessive
+15	edition	NN	12	pobj
+16	from	IN	8	prep
+17	Frederick	NNP	19	nn
+18	H.	NNP	19	nn
+19	Hallett	NNP	16	pobj
+20	mistakenly	RB	21	advmod
+21	identified	VBD	0	root
+22	the	DT	23	det
+23	NRDC	NNP	21	dobj
+24	.	.	21	punct
+
+1	It	PRP	8	nsubj
+2	should	MD	8	aux
+3	be	VB	8	cop
+4	the	DT	8	det
+5	Natural	NNP	6	nn
+6	Resources	NNPS	8	nn
+7	Defense	NNP	8	nn
+8	Council	NNP	0	root
+9	.	.	8	punct
+
+

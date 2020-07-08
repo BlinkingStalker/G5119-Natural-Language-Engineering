@@ -1,0 +1,45 @@
+1	General	NNP	2	nn
+2	Motors	NNPS	3	nn
+3	Corp.	NNP	7	poss
+4	's	POS	3	possessive
+5	GMC	NNP	6	nn
+6	Truck	NNP	7	nn
+7	division	NN	8	nsubj
+8	put	VBD	0	root
+9	a	DT	13	det
+10	$	$	13	amod
+11	750	CD	10	number
+12	cash	NN	13	nn
+13	incentive	NN	8	dobj
+14	on	IN	8	prep
+15	its	PRP$	21	poss
+16	1990	CD	21	num
+17	full-sized	JJ	21	amod
+18	Jimmy	NNP	21	nn
+19	and	CC	18	cc
+20	Suburban	NNP	18	conj
+21	trucks	NNS	14	pobj
+22	.	.	8	punct
+
+1	The	DT	2	det
+2	program	NN	11	nsubj
+3	,	,	2	punct
+4	which	WDT	5	nsubj
+5	runs	VBZ	2	rcmod
+6	through	IN	5	prep
+7	Jan.	NNP	6	pobj
+8	4	CD	7	num
+9	,	,	2	punct
+10	also	RB	11	advmod
+11	offers	VBZ	0	root
+12	low-rate	JJ	13	amod
+13	financing	NN	11	dobj
+14	in	IN	11	prep
+15	lieu	NN	14	pobj
+16	of	IN	15	prep
+17	the	DT	19	det
+18	cash	NN	19	nn
+19	rebate	NN	16	pobj
+20	.	.	11	punct
+
+

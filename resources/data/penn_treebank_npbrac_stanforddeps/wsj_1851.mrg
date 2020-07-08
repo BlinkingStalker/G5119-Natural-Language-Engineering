@@ -1,0 +1,59 @@
+1	Federal	NNP	3	nn
+2	Paper	NNP	3	nn
+3	Board	NNP	4	nn
+4	Co.	NNP	5	nsubj
+5	said	VBD	0	root
+6	it	PRP	7	nsubj
+7	completed	VBD	5	ccomp
+8	the	DT	11	det
+9	previously	RB	10	advmod
+10	announced	VBN	11	amod
+11	purchase	NN	7	dobj
+12	of	IN	11	prep
+13	Imperial	NNP	14	nn
+14	Cup	NNP	15	nn
+15	Corp.	NNP	12	pobj
+16	,	,	15	punct
+17	a	DT	20	det
+18	closely	RB	19	advmod
+19	held	JJ	20	amod
+20	maker	NN	15	appos
+21	of	IN	20	prep
+22	paper	NN	23	nn
+23	cups	NNS	21	pobj
+24	based	VBN	20	partmod
+25	in	IN	24	prep
+26	Kenton	NNP	25	pobj
+27	,	,	26	punct
+28	Ohio	NNP	26	appos
+29	.	.	5	punct
+
+1	Terms	NNS	4	nsubjpass
+2	were	VBD	4	auxpass
+3	n't	RB	4	neg
+4	disclosed	VBN	0	root
+5	.	.	4	punct
+
+1	Imperial	NNP	2	nn
+2	Cup	NNP	3	nsubj
+3	has	VBZ	0	root
+4	annual	JJ	5	amod
+5	sales	NNS	3	dobj
+6	of	IN	5	prep
+7	approximately	RB	8	quantmod
+8	$	$	6	pobj
+9	75	CD	8	number
+10	million	CD	8	number
+11	.	.	3	punct
+
+1	Federal	NNP	3	nn
+2	Paper	NNP	3	nn
+3	Board	NNP	4	nsubj
+4	sells	VBZ	0	root
+5	paper	NN	8	nn
+6	and	CC	5	cc
+7	wood	NN	5	conj
+8	products	NNS	4	dobj
+9	.	.	4	punct
+
+

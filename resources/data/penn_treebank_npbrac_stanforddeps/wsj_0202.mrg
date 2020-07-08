@@ -1,0 +1,54 @@
+1	BELL	NNP	2	nn
+2	INDUSTRIES	NNP	3	nn
+3	Inc.	NNP	4	nsubj
+4	increased	VBD	0	root
+5	its	PRP$	6	poss
+6	quarterly	NN	4	dobj
+7	to	TO	4	prep
+8	10	CD	9	num
+9	cents	NNS	7	pobj
+10	from	IN	4	prep
+11	seven	CD	12	num
+12	cents	NNS	10	pobj
+13	a	DT	14	det
+14	share	NN	12	npadvmod
+15	.	.	4	punct
+
+1	The	DT	3	det
+2	new	JJ	3	amod
+3	rate	NN	6	nsubj
+4	will	MD	6	aux
+5	be	VB	6	cop
+6	payable	JJ	0	root
+7	Feb.	NNP	6	tmod
+8	15	CD	7	num
+9	.	.	6	punct
+
+1	A	DT	3	det
+2	record	NN	3	nn
+3	date	NN	7	nsubjpass
+4	has	VBZ	7	aux
+5	n't	RB	7	neg
+6	been	VBN	7	auxpass
+7	set	VBN	0	root
+8	.	.	7	punct
+
+1	Bell	NNP	8	nsubj
+2	,	,	1	punct
+3	based	VBN	1	partmod
+4	in	IN	3	prep
+5	Los	NNP	6	nn
+6	Angeles	NNP	4	pobj
+7	,	,	1	punct
+8	makes	VBZ	0	root
+9	and	CC	8	cc
+10	distributes	VBZ	8	conj
+11	electronic	JJ	16	amod
+12	,	,	11	punct
+13	computer	NN	11	conj
+14	and	CC	11	cc
+15	building	NN	11	conj
+16	products	NNS	8	dobj
+17	.	.	8	punct
+
+

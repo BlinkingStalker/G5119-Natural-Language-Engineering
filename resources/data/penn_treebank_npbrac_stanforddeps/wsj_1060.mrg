@@ -1,0 +1,38 @@
+1	Concord	NNP	2	nn
+2	Camera	NNP	3	nn
+3	Corp.	NNP	4	nsubj
+4	completed	VBD	0	root
+5	the	DT	6	det
+6	acquisition	NN	4	dobj
+7	of	IN	6	prep
+8	Peter	NNP	9	nn
+9	Bauser	NNP	12	nn
+10	G.m.b	NNP	12	nn
+11	.	.	10	punct
+12	H.	NNP	7	pobj
+13	,	,	12	punct
+14	a	DT	19	det
+15	West	JJ	16	amod
+16	German	JJ	19	amod
+17	photographic	JJ	18	amod
+18	products	NNS	19	nn
+19	distributor	NN	12	appos
+20	.	.	4	punct
+
+1	Terms	NNS	4	nsubjpass
+2	were	VBD	4	auxpass
+3	n't	RB	4	neg
+4	disclosed	VBN	0	root
+5	.	.	4	punct
+
+1	Concord	NNP	8	nsubj
+2	is	VBZ	8	cop
+3	a	DT	8	det
+4	camera	NN	8	nn
+5	and	CC	4	cc
+6	photographic	JJ	7	amod
+7	products	NNS	4	conj
+8	company	NN	0	root
+9	.	.	8	punct
+
+

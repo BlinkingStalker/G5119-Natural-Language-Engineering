@@ -1,0 +1,43 @@
+1	Maurice	NNP	2	nn
+2	Warren	NNP	10	nsubjpass
+3	,	,	2	punct
+4	56-year-old	JJ	7	amod
+5	group	NN	7	nn
+6	managing	NN	7	nn
+7	director	NN	2	appos
+8	,	,	2	punct
+9	was	VBD	10	auxpass
+10	named	VBN	0	root
+11	chief	JJ	13	amod
+12	executive	NN	13	nn
+13	officer	NN	10	xcomp
+14	of	IN	13	prep
+15	this	DT	19	det
+16	food	NN	19	nn
+17	and	CC	16	cc
+18	agriculture	NN	16	conj
+19	group	NN	14	pobj
+20	.	.	10	punct
+
+1	The	DT	2	det
+2	post	NN	8	nsubj
+3	of	IN	2	prep
+4	chief	JJ	5	amod
+5	executive	NN	3	pobj
+6	has	VBZ	8	aux
+7	been	VBN	8	cop
+8	vacant	JJ	0	root
+9	since	IN	8	prep
+10	July	NNP	9	pobj
+11	when	WRB	17	advmod
+12	Terry	NNP	13	nn
+13	Pryce	NNP	17	nsubj
+14	,	,	13	punct
+15	55	CD	13	appos
+16	,	,	13	punct
+17	left	VBD	10	dep
+18	the	DT	19	det
+19	company	NN	17	dobj
+20	.	.	8	punct
+
+

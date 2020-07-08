@@ -1,0 +1,45 @@
+1	Sun	NNP	2	nn
+2	Microsystems	NNPS	3	nn
+3	Inc.	NNP	4	nsubj
+4	said	VBD	0	root
+5	Prime	NNP	6	nn
+6	Computer	NNP	7	nn
+7	Inc.	NNP	9	nsubj
+8	has	VBZ	9	aux
+9	agreed	VBN	4	ccomp
+10	to	TO	11	aux
+11	resell	VB	9	xcomp
+12	as	RB	15	quantmod
+13	much	JJ	15	quantmod
+14	as	IN	15	quantmod
+15	$	$	18	num
+16	200	CD	15	number
+17	million	CD	15	number
+18	worth	NN	11	dobj
+19	of	IN	18	prep
+20	Sun	NNP	22	poss
+21	's	POS	20	possessive
+22	machines	NNS	19	pobj
+23	over	IN	11	prep
+24	the	DT	27	det
+25	next	JJ	27	amod
+26	two	CD	27	num
+27	years	NNS	23	pobj
+28	.	.	4	punct
+
+1	The	DT	2	det
+2	computers	NNS	3	nsubj
+3	use	VBP	13	ccomp
+4	the	DT	5	det
+5	company	NN	8	poss
+6	's	POS	5	possessive
+7	own	JJ	8	amod
+8	microprocessor	NN	3	dobj
+9	called	VBN	8	partmod
+10	Sparc	NNP	9	dep
+11	,	,	13	punct
+12	Sun	NNP	13	nsubj
+13	said	VBD	0	root
+14	.	.	13	punct
+
+

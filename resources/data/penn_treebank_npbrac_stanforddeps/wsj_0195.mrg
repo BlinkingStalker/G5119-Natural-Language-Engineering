@@ -1,0 +1,31 @@
+1	John	NNP	3	nn
+2	F.	NNP	3	nn
+3	Barrett	NNP	17	nsubjpass
+4	,	,	3	punct
+5	40	CD	3	appos
+6	,	,	3	punct
+7	formerly	RB	3	advmod
+8	executive	JJ	10	amod
+9	vice	NN	10	nn
+10	president	NN	3	dep
+11	and	CC	10	cc
+12	chief	NN	14	nn
+13	financial	JJ	14	amod
+14	officer	NN	10	conj
+15	,	,	3	punct
+16	was	VBD	17	auxpass
+17	named	VBN	0	root
+18	president	NN	17	xcomp
+19	and	CC	18	cc
+20	chief	NN	22	nn
+21	operating	VBG	22	amod
+22	officer	NN	18	conj
+23	,	,	18	punct
+24	posts	NNS	18	appos
+25	which	WDT	28	nsubj
+26	had	VBD	28	aux
+27	been	VBN	28	cop
+28	vacant	JJ	24	rcmod
+29	.	.	17	punct
+
+

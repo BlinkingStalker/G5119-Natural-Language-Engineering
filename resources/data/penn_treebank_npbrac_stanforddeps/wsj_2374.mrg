@@ -1,0 +1,32 @@
+1	BULL	NNP	2	nn
+2	HN	NNP	4	nn
+3	INFORMATION	NNP	4	nn
+4	SYSTEMS	NNP	5	nn
+5	Inc.	NNP	10	nsubj
+6	is	VBZ	10	cop
+7	a	DT	10	det
+8	U.S.	NNP	10	nn
+9	majority-owned	JJ	10	amod
+10	unit	NN	0	root
+11	of	IN	10	prep
+12	Cie.	NNP	15	nn
+13	des	NNP	15	nn
+14	Machines	NNP	15	nn
+15	Bull	NNP	11	pobj
+16	.	.	10	punct
+
+1	In	IN	12	prep
+2	Friday	NNP	4	poss
+3	's	POS	2	possessive
+4	edition	NN	1	pobj
+5	,	,	12	punct
+6	the	DT	7	det
+7	name	NN	12	nsubjpass
+8	of	IN	7	prep
+9	the	DT	10	det
+10	unit	NN	8	pobj
+11	was	VBD	12	auxpass
+12	misstated	VBN	0	root
+13	.	.	12	punct
+
+

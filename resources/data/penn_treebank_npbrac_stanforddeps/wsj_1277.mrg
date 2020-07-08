@@ -1,0 +1,54 @@
+1	Weyerhaeuser	NNP	2	nn
+2	Co.	NNP	3	nsubj
+3	said	VBD	0	root
+4	it	PRP	5	nsubj
+5	sold	VBD	3	ccomp
+6	its	PRP$	8	poss
+7	wall-paneling	JJ	8	amod
+8	business	NN	5	dobj
+9	to	TO	5	prep
+10	an	DT	11	det
+11	affiliate	NN	9	pobj
+12	of	IN	11	prep
+13	one	CD	12	pobj
+14	of	IN	13	prep
+15	Indonesia	NNP	19	poss
+16	's	POS	15	possessive
+17	largest	JJS	19	amod
+18	wood-products	NNS	19	nn
+19	firms	NNS	14	pobj
+20	.	.	3	punct
+
+1	Terms	NNS	7	nsubjpass
+2	of	IN	1	prep
+3	the	DT	4	det
+4	transaction	NN	2	pobj
+5	were	VBD	7	auxpass
+6	n't	RB	7	neg
+7	disclosed	VBN	0	root
+8	.	.	7	punct
+
+1	Weyerhaeuser	NNP	2	nsubj
+2	said	VBD	0	root
+3	its	PRP$	5	poss
+4	paneling	NN	5	nn
+5	business	NN	6	nsubj
+6	employs	VBZ	2	ccomp
+7	about	IN	8	quantmod
+8	300	CD	9	num
+9	workers	NNS	6	dobj
+10	at	IN	6	prep
+11	two	CD	12	num
+12	facilities	NNS	10	pobj
+13	in	IN	12	prep
+14	Chesapeake	NNP	13	pobj
+15	,	,	14	punct
+16	Va.	NNP	14	appos
+17	,	,	14	punct
+18	and	CC	14	cc
+19	Hancock	NNP	14	conj
+20	,	,	19	punct
+21	Vt	NNP	19	appos
+22	.	.	2	punct
+
+

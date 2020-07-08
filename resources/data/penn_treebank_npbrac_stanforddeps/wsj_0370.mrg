@@ -1,0 +1,44 @@
+1	Richard	NNP	3	nn
+2	J.	NNP	3	nn
+3	Riordan	NNP	5	nsubjpass
+4	was	VBD	5	auxpass
+5	elected	VBN	0	root
+6	a	DT	7	det
+7	director	NN	5	xcomp
+8	of	IN	7	prep
+9	this	DT	12	det
+10	single-family	JJ	11	amod
+11	home	NN	12	nn
+12	builder	NN	8	pobj
+13	,	,	5	punct
+14	increasing	VBG	5	xcomp
+15	the	DT	16	det
+16	board	NN	14	dobj
+17	to	TO	14	prep
+18	nine	CD	17	pobj
+19	.	.	5	punct
+
+1	He	PRP	5	nsubj
+2	is	VBZ	5	cop
+3	a	DT	5	det
+4	senior	JJ	5	amod
+5	partner	NN	0	root
+6	with	IN	5	prep
+7	the	DT	9	det
+8	law	NN	9	nn
+9	firm	NN	6	pobj
+10	of	IN	9	prep
+11	Riordan	NNP	10	pobj
+12	&	CC	11	cc
+13	McKinzie	NNP	11	conj
+14	and	CC	5	cc
+15	is	VBZ	17	cop
+16	a	DT	17	det
+17	partner	NN	5	conj
+18	in	IN	17	prep
+19	Riordan	NNP	21	nn
+20	Venture	NNP	21	nn
+21	Management	NNP	18	pobj
+22	.	.	5	punct
+
+

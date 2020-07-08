@@ -1,0 +1,81 @@
+1	Your	PRP$	5	poss
+2	Oct.	NNP	5	nn
+3	2	CD	2	num
+4	page-one	JJ	5	amod
+5	article	NN	18	nsubj
+6	on	IN	5	prep
+7	people	NNS	6	pobj
+8	riding	VBG	7	partmod
+9	so-called	JJ	11	amod
+10	``	``	11	punct
+11	railbikes	NNS	8	dobj
+12	''	''	11	punct
+13	on	IN	8	prep
+14	railroad	NN	15	nn
+15	tracks	NNS	13	pobj
+16	was	VBD	18	cop
+17	a	DT	18	det
+18	disservice	NN	0	root
+19	to	TO	18	prep
+20	your	PRP$	21	poss
+21	readers	NNS	19	pobj
+22	.	.	18	punct
+
+1	It	PRP	3	nsubj
+2	unfortunately	RB	3	advmod
+3	encourages	VBZ	0	root
+4	others	NNS	6	nsubj
+5	to	TO	6	aux
+6	engage	VB	3	xcomp
+7	in	IN	6	prep
+8	a	DT	13	det
+9	highly	RB	10	advmod
+10	dangerous	JJ	13	amod
+11	and	CC	10	cc
+12	illegal	JJ	10	conj
+13	activity	NN	7	pobj
+14	that	IN	20	dobj
+15	only	RB	18	advmod
+16	a	DT	18	det
+17	very	RB	18	advmod
+18	few	JJ	20	nsubj
+19	are	VBP	20	aux
+20	doing	VBG	13	rcmod
+21	now	RB	20	advmod
+22	.	.	3	punct
+
+1	And	CC	3	cc
+2	it	PRP	3	nsubj
+3	treats	VBZ	0	root
+4	such	JJ	5	amod
+5	activities	NNS	3	dobj
+6	in	IN	3	prep
+7	a	DT	11	det
+8	frivolous	JJ	11	amod
+9	,	,	11	punct
+10	cavalier	JJ	11	amod
+11	fashion	NN	6	pobj
+12	,	,	3	punct
+13	with	IN	3	prep
+14	total	JJ	15	amod
+15	indifference	NN	13	pobj
+16	to	TO	15	prep
+17	common	JJ	18	amod
+18	sense	NN	16	pobj
+19	and	CC	18	cc
+20	public	JJ	21	amod
+21	safety	NN	18	conj
+22	.	.	3	punct
+
+1	Saul	NNP	2	nn
+2	Resnick	NNP	0	root
+
+1	Vice	NNP	2	nn
+2	President	NNP	0	root
+
+1	Public	NNP	2	nn
+2	Affairs	NNPS	0	root
+
+1	Conrail	NNP	0	erased
+
+

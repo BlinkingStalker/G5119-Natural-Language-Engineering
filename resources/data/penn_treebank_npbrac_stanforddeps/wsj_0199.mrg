@@ -1,0 +1,45 @@
+1	Trinity	NNP	2	nn
+2	Industries	NNPS	3	nn
+3	Inc.	NNP	4	nsubj
+4	said	VBD	0	root
+5	it	PRP	6	nsubj
+6	reached	VBD	4	ccomp
+7	a	DT	9	det
+8	preliminary	JJ	9	amod
+9	agreement	NN	6	dobj
+10	to	TO	11	aux
+11	sell	VB	9	infmod
+12	500	CD	14	num
+13	railcar	NN	14	nn
+14	platforms	NNS	11	dobj
+15	to	TO	11	prep
+16	Trailer	NNP	17	nn
+17	Train	NNP	18	nn
+18	Co.	NNP	15	pobj
+19	of	IN	18	prep
+20	Chicago	NNP	19	pobj
+21	.	.	4	punct
+
+1	Terms	NNS	4	nsubjpass
+2	were	VBD	4	auxpass
+3	n't	RB	4	neg
+4	disclosed	VBN	0	root
+5	.	.	4	punct
+
+1	Trinity	NNP	2	nsubj
+2	said	VBD	0	root
+3	it	PRP	4	nsubj
+4	plans	VBZ	2	ccomp
+5	to	TO	6	aux
+6	begin	VB	4	xcomp
+7	delivery	NN	6	dobj
+8	in	IN	6	prep
+9	the	DT	11	det
+10	first	JJ	11	amod
+11	quarter	NN	8	pobj
+12	of	IN	11	prep
+13	next	JJ	14	amod
+14	year	NN	12	pobj
+15	.	.	2	punct
+
+

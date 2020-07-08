@@ -1,0 +1,56 @@
+1	Charles	NNP	3	nn
+2	A.	NNP	3	nn
+3	Pearce	NNP	10	nsubj
+4	,	,	3	punct
+5	66	CD	6	num
+6	years	NNS	7	npadvmod
+7	old	JJ	3	amod
+8	,	,	10	punct
+9	will	MD	10	aux
+10	retire	VB	0	root
+11	from	IN	10	prep
+12	his	PRP$	13	poss
+13	post	NN	11	pobj
+14	as	IN	13	prep
+15	chief	NN	17	nn
+16	executive	JJ	17	amod
+17	officer	NN	14	pobj
+18	of	IN	17	prep
+19	this	DT	22	det
+20	bank	NN	22	nn
+21	holding	VBG	22	amod
+22	company	NN	18	pobj
+23	effective	JJ	10	acomp
+24	Dec.	NNP	23	tmod
+25	31	CD	24	num
+26	.	.	10	punct
+
+1	He	PRP	4	nsubj
+2	will	MD	4	aux
+3	remain	VB	4	cop
+4	chairman	NN	0	root
+5	.	.	4	punct
+
+1	Charles	NNP	3	nn
+2	R.	NNP	3	nn
+3	Simpson	NNP	4	nn
+4	Jr.	NNP	15	nsubj
+5	,	,	4	punct
+6	46	CD	4	appos
+7	,	,	4	punct
+8	president	NN	4	appos
+9	and	CC	8	cc
+10	chief	NN	12	nn
+11	operating	VBG	12	amod
+12	officer	NN	8	conj
+13	,	,	15	punct
+14	will	MD	15	aux
+15	assume	VB	0	root
+16	the	DT	18	det
+17	chief	NN	18	nn
+18	executive	NN	20	poss
+19	's	POS	18	possessive
+20	post	NN	15	dobj
+21	.	.	15	punct
+
+
